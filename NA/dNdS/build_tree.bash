@@ -1,0 +1,1 @@
+for i in {1..25}; do cd $i/; sed 's/\./_/g' nucleotide.fasta > tmp.fasta; sed 's/\//_/g' tmp.fasta > nucleotide.fasta; sed 's/|/_/g' nucleotide.fasta > tmp.fasta; mv tmp.fasta nucleotide.fasta; fasttree -nt -gtr -nosupport nucleotide.fasta > nucleotide.tree; cp -r ../fel_setup/* ./; sed -i 's/change_this/'$i'/g' automate_fel.bf; cd ../; done

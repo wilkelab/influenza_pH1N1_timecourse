@@ -1,0 +1,5 @@
+/home/austin/Desktop/evo_rate_v_time/HA/dNdS/3/sites
+rm: cannot remove ‘errors.log’: No such file or directory
+rm: cannot remove ‘run.log’: No such file or directory
+
+Check messages.log details of this run.
