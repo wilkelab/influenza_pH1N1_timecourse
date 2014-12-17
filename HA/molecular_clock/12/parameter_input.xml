@@ -156,7 +156,7 @@
 		</posterior>
 		<operators idref="operators"/>
 
-		<log id="screenLog" logEvery="100000">
+		<log id="screenLog" logEvery="50000">
 			<column label="Posterior" dp="4" width="12">
 				<posterior idref="posterior"/>
 			</column>
@@ -174,7 +174,7 @@
 			</column>
 		</log>
 
-		<log id="fileLog" logEvery="100000" fileName="h1pdm_tree.log" overwrite="false">
+		<log id="fileLog" logEvery="50000" fileName="h1pdm_tree.log" overwrite="false">
 			<posterior idref="posterior"/>
 			<prior idref="prior"/>
 			<likelihood idref="likelihood"/>
@@ -188,7 +188,7 @@
 			<treeLikelihood idref="treeLikelihood"/>
 		</log>
 
-		<logTree id="treeFileLog" logEvery="100000" nexusFormat="true" fileName="h1pdm_tree.trees" sortTranslationTable="true">
+		<logTree id="treeFileLog" logEvery="50000" nexusFormat="true" fileName="h1pdm_tree.trees" sortTranslationTable="true">
 			<treeModel idref="treeModel"/>
 			<posterior idref="posterior"/>
 		</logTree>
