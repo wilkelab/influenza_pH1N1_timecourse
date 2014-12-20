@@ -1,7 +1,7 @@
 #!/bin/csh
 
 # Create Working Directory
-set WDIR = $MD_RESULTS/H1/HA/molecular_clock/1
+set WDIR = $MD_RESULTS/H1/HA/molecular_clock/1_50
 set FDIR = `pwd`
 
 if ( -d $WDIR ) then
