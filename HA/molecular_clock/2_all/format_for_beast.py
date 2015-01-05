@@ -13,7 +13,7 @@ def clean_sequences(folder):
         if not date_formate:
             continue
 
-        cleaned_sequences.append(SeqRecord(Seq(str(seq.seq), IUPAC.unambiguous_dna), id=seq.id, description=''))
+        cleaned_sequences.append(SeqRecord(Seq(str(seq.seq)[0:1702], IUPAC.unambiguous_dna), id=seq.id, description=''))
 
     shutil.copy('nucleotide.fasta', 'nucleotide.bak')    
     SeqIO.write(cleaned_sequences, open('nucleotide.fasta', 'w'), "fasta")
