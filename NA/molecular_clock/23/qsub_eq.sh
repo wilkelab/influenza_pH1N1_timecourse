@@ -1,7 +1,7 @@
 #!/bin/csh
 
 # Create Working Directory
-set WDIR = $MD_RESULTS/NA/molecular_clock/23
+set WDIR = $MD_RESULTS/H1/NA/molecular_clock/23
 set FDIR = `pwd`
 
 if ( -d $WDIR ) then
@@ -27,7 +27,7 @@ echo '#\!/bin/bash' > run.q
 echo '#$ -cwd' >> run.q
 echo '#$ -V' >> run.q
 echo '#$ -S /bin/bash' >> run.q
-echo '#$ -N NA' >> run.q
+echo '#$ -N HA' >> run.q
 echo '#$ -o run.log' >> run.q
 echo '#$ -e run.err' >> run.q
 echo '#$ -q normal' >> run.q

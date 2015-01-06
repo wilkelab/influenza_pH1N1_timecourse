@@ -27,11 +27,11 @@ echo '#\!/bin/bash' > run.q
 echo '#$ -cwd' >> run.q
 echo '#$ -V' >> run.q
 echo '#$ -S /bin/bash' >> run.q
-echo '#$ -N NA' >> run.q
+echo '#$ -N HA' >> run.q
 echo '#$ -o run.log' >> run.q
 echo '#$ -e run.err' >> run.q
 echo '#$ -q normal' >> run.q
-echo '#$ -pe 12way 240' >> run.q
+echo '#$ -pe 12way 120' >> run.q
 echo '#$ -l h_rt=24:00:00' >> run.q
 echo '#$ -A A-bio7' >> run.q
 
