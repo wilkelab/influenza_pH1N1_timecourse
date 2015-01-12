@@ -1,5 +1,5 @@
 #!/bin/bash
-#$ -N HA_beast
+#$ -N HA_beast_4
 #$ -e error
 #$ -o out
 #$ -S /bin/bash
