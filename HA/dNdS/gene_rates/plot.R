@@ -4,9 +4,9 @@ library(cowplot)
 library(zoo)
 library(scales)
 
-setwd('~/Google Drive/Work/WilkeLab/flu_projects/evo_rate_v_time/HA/dNdS/gene_rates/')
+setwd('~/Google Drive/Data/influenza_pH1N1_timecourse/HA/dNdS/gene_rates/')
 d1 <- read.table('gene_rates.dat', sep='=', head=F)[,2]
-setwd('~/Google Drive/Work/WilkeLab/flu_projects/evo_rate_v_time/NA/dNdS/gene_rates/')
+setwd('~/Google Drive/Data/influenza_pH1N1_timecourse/NA/dNdS/gene_rates/')
 d2 <- read.table('gene_rates.dat', sep='=', head=F)[,2]
 
 d <- data.frame(Date=as.Date(c('04/30/2009', 
@@ -46,4 +46,4 @@ p <- ggplot(data=d, aes(x=Date, y=w, color=Protein)) + geom_point() +
   scale_x_date(breaks = date_breaks("2 months"), labels = date_format('%m/%Y')) +
   theme(legend.position = c(0.9,0.9))
 
-ggsave("dNdSvTime.pdf", p, width=6, h=5.5)
+ggsave("dNdSvTime.pdf", p, width=5, h=4.5, useDingbats = F)
