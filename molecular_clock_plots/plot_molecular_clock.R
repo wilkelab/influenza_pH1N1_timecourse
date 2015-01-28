@@ -6,6 +6,8 @@ library(cowplot)
 library(zoo)
 library(scales)
 
+setwd('~/Google Drive/Data/influenza_pH1N1_timecourse/molecular_clock_plots/')
+
 plot.mc <- function(d, limits, dates.for.plot) {
   p <- ggplot(data=d, aes(x=as.numeric(Date), y=y)) + geom_point() + 
     geom_errorbar(limits, width=10) + 
@@ -81,7 +83,6 @@ ds <- as.Date(c('04/30/2009',
                 '11/30/2010',
                 '04/30/2011'), format='%m/%d/%Y')
 
-setwd('~/Desktop/')
 na.d <- data.frame(Date=ds,
                    y=c(1.926e-2, 1.133e-2, 4.292e-3, 4.6e-3, 4.386e-3, 4.113e-3, 4.298e-3, 4.611e-3, 4.747e-3, 4.858e-3, 5.065e-3, 4.893e-3, 4.597e-3))
 
