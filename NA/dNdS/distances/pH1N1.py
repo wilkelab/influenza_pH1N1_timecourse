@@ -24,6 +24,10 @@ label_clips[-1] = label_clips[-1].set_duration(end_dur)
             
 text = concatenate_videoclips(label_clips).set_pos((0.73*W, 0.1*H))
 
-video = CompositeVideoClip([HA, text], size=(W, H), bg_color=(255, 255, 255))
+frames_per_second = 24
+
+legend = (ImageClip("scale.png").set_pos((0.75*W, 0.25*H))).set_duration(text.duration)
+
+video = CompositeVideoClip([HA, text, legend], size=(W, H), bg_color=(255, 255, 255))
 
 video.write_videofile('pH1N1_na.mp4', fps=24, codec='mpeg4', bitrate="5000k")
