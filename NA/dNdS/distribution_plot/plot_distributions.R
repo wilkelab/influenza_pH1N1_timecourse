@@ -4,13 +4,14 @@ library(ggplot2)
 library(cowplot)
 
 plot.density <- function(data, title) {
+  data <- data[data$x != 1, ]
   p <- ggplot(data, aes(x = x)) + geom_density()
   p <- p + scale_x_continuous(limit = c(0, 4))
   p <- p + ylab("Density")
   p <- p + xlab('dN/dS')
   p <- p + ggtitle(title)
   
-  ggsave(p, filename = paste('dNdS_distribution_', data$id[1], '.pdf', sep=''), height = 4.5, width=5)
+  #ggsave(p, filename = paste('dNdS_distribution_', data$id[1], '.pdf', sep=''), height = 4.5, width=5)
   return(p)
 }
 
@@ -85,7 +86,7 @@ p.manuscript <- ggdraw() +
   draw_plot(p6, 1/3, 0, 1/3, 1) +
   draw_plot(p25, 2/3, 0, 1/3, 1) 
 
-ggsave(p, filename = 'dNdS_distribution.pdf', height = 15, width=15)
-ggsave(p.manuscript, filename = 'dNdS_distribution_manuscript.pdf', height = 5, width=15)
+ggsave(p, filename = '~/Desktop/dNdS_distribution.pdf', height = 15, width=15)
+ggsave(p.manuscript, filename = '~/Desktop/dNdS_distribution_manuscript.pdf', height = 5, width=15)
 
 h3.p <- plot.density(data.frame(x = h3.dat$FEL.dN.dS, id = rep('H3', length(h3.dat$FEL.dN.dS))), "Hemagglutinin 3")
