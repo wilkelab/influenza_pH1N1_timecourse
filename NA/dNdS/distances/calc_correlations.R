@@ -17,5 +17,6 @@ for(i in 1:25){
   mins <- append(mins, min(correlations$correlations))
   means <- append(means, mean(correlations$correlations))
   sds <- append(sds, sd(correlations$correlations))
-  print(max(correlations$correlations))
+  #print(max(correlations$correlations))
 }
+
