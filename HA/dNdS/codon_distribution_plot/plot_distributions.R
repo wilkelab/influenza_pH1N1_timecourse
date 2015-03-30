@@ -108,7 +108,8 @@ plot.data <- data.frame(id = as.vector(sapply(rep(1:6), function(x) rep(x, 25)))
 p <- ggplot(plot.data, aes(x=x, y=y, group=id, color=id)) + 
   geom_line() + 
   guides(colour = guide_legend(order = 1)) +
-  scale_color_gradientn(name='Distinct\nCodons', colours=c("navyblue","darkmagenta","darkorange1")) +
+  scale_color_gradientn(name='Distinct\nCodons', colours=c('#001e00', '#8ac896')) +
+  #scale_color_brewer(palette='Set1') + 
   scale_y_continuous(limits=c(0,1)) + 
   scale_x_continuous(limits=c(1,25)) + 
   ylab('Fraction of Total Codons') + 
