@@ -2,35 +2,79 @@ rm(list = ls())
 
 library(ggplot2)
 library(cowplot)
+library(dplyr)
+
+get.bins <- function(vec) {
+  bins <- rep(0, length(vec))
+  site <- 1
+  for(i in vec) {
+    threshold = -0.02
+    counter <- 1
+    while(i > threshold) {
+      threshold <- threshold + 0.04
+      if(i < threshold) {
+        bins[site] <- counter
+      }
+      counter <- counter + 1
+    }
+    site <- site + 1
+  }
+  return(bins)
+}
 
 plot.density <- function(data, title, column, protein) {
   if(column > 0) {
-      data <- data[data$id == column, ]
+    data <- data[data$id == column, ]
   }
   
-  p <- ggplot(data, aes(x = x)) + geom_density()
-  p <- p + scale_x_continuous(limit = c(0, 4))
-  p <- p + ylab("Density")
+  means <- summarise(group_by(data, bins), count=length(counts), mean=mean(counts))
+  
+  p <- ggplot(means, aes(x = ((bins-1)*0.04), y=count, fill=mean)) + geom_bar(stat = "identity", width=0.04)
+  p <- p + scale_x_continuous(limit = c(-0.02, 4))
+  p <- p + scale_y_continuous(limit = c(0, 410))
+  p <- p + scale_fill_gradient(low='blue', high='red', name=c('Average\nUnique\nCodons'))
+  p <- p + ylab("Count")
   p <- p + xlab('dN/dS')
   p <- p + ggtitle(title)
   
-  ggsave(p, filename = paste('distribution_plots/', protein,'_dNdS_distribution_', data$id[1], '.pdf', sep=''), height = 4.5, width=5)
+  ggsave(p, filename = paste('distribution_plots/', protein,'_dNdS_distribution_', data$id[1], '.pdf', sep=''), height = 4, width=5.5)
   return(p)
 }
 
-h3.dat <- read.table('~/Google Drive/Data/influenza_HA_evolution/data_table/numbering_table_unix.csv', head=T, sep=',')
+plot.density.h3 <- function(data, title, column, protein) {
+  if(column > 0) {
+    data <- data[data$id == column, ]
+  }
+  
+  p <- ggplot(data, aes(x = x)) + geom_histogram(binwidth=0.04, origin = -0.02)
+  p <- p + scale_x_continuous(limit = c(-0.02, 4))
+  p <- p + scale_y_continuous(limit = c(0, 410))
+  p <- p + ylab("Count")
+  p <- p + xlab('dN/dS')
+  p <- p + ggtitle(title)
+  
+  ggsave(p, filename = paste('distribution_plots/', protein,'_dNdS_distribution_', data$id[1], '.pdf', sep=''), height = 4, width=5.5)
+  return(p)
+}
+
+h3.dat <- read.table('~/Google Drive/Documents/PostDoc/GeometricConstraints/influenza_HA_evolution/data_table/numbering_table_unix.csv', head=T, sep=',')
 
 get.df <- function(location) {
   rates <- c()
+  counts <- c()
+  bins <- c()
   id <- c()
   for(i in 1:25){
     rates.temp <- read.table(paste(location, '/dNdS/distribution_plot/site_rates/rates_', i, '.dat', sep=''), sep=',', head=T)
     map <- read.table(paste(location, '/dNdS/distribution_plot/structure_maps/map_', i, '.txt', sep=''), head=F)
+    counts.temp <- read.table(paste(location, '/dNdS/codon_distribution_plot/codon_counts/', i, '.dat', sep=''), head=T)
     rates <- append(rates, rates.temp$dN.dS[map$V1 != '-'])
+    counts <- append(counts, counts.temp$num_codon[map$V1 != '-'])
+    bins <- append(bins, get.bins(rates.temp$dN.dS[map$V1 != '-']))
     id <- append(id, rep(i, length(rates.temp$dN.dS[map$V1 != '-'])))
   }
   
-  data.frame(x = rates, id = id)
+  data.frame(x = rates, id = id, counts = counts, bins=bins)
 }
 
 ha.df <- get.df('HA')
@@ -156,4 +200,4 @@ ggsave(p.ha, filename = 'distribution_plots/ha_dNdS_distribution.pdf', height = 
 ggsave(p.na, filename = 'distribution_plots/na_dNdS_distribution.pdf', height = 15, width=15)
 ggsave(p.manuscript, filename = 'distribution_plots/dNdS_distribution_manuscript.pdf', height = 10, width=15)
 
-h3.p <- plot.density(data.frame(x = h3.dat$FEL.dN.dS, id = rep('H3', length(h3.dat$FEL.dN.dS))), "Hemagglutinin 3", -1, 'h3')
+h3.p <- plot.density.h3(data.frame(x = h3.dat$FEL.dN.dS, id = rep('H3', length(h3.dat$FEL.dN.dS))), "Hemagglutinin 3", -1, 'h3')
