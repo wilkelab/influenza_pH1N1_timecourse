@@ -30,4 +30,4 @@ legend = (ImageClip("scale.png").set_pos((0.65*W, 0.25*H))).set_duration(text.du
 
 video = CompositeVideoClip([HA, text, legend], size=(W, H), bg_color=(255, 255, 255))
 
-video.write_videofile('pH1N1_ha.mp4', fps=frames_per_second, codec='mpeg4', bitrate="5000k")
+video.write_videofile('pH1N1_ha.mov', fps=frames_per_second, codec='mpeg4', bitrate="5000k")

@@ -29,10 +29,10 @@ plot.density <- function(data, title, column, protein) {
   
   means <- summarise(group_by(data, bins), count=length(counts), mean=mean(counts))
   
-  p <- ggplot(means, aes(x = ((bins-1)*0.04), y=count, fill=mean)) + geom_bar(stat = "identity", width=0.04)
+  p <- ggplot(means, aes(x = ((bins-1)*0.04), y=count)) + geom_bar(stat = "identity", width=0.04)
   p <- p + scale_x_continuous(limit = c(-0.02, 4))
   p <- p + scale_y_continuous(limit = c(0, 410))
-  p <- p + scale_fill_gradient(low='blue', high='red', name=c('Average\nUnique\nCodons'))
+  #p <- p + scale_fill_gradient(low='blue', high='red', name=c('Average\nUnique\nCodons'))
   p <- p + ylab("Count")
   p <- p + xlab('dN/dS')
   p <- p + ggtitle(title)
