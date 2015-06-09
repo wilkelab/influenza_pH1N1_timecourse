@@ -66,7 +66,7 @@ plot.mc <- function(d, limits, dates.for.plot) {
                                   '',
                                   '',
                                   '05/2011')) +
-    scale_y_continuous(breaks = seq(0, 0.04, 0.005), limits = c(0, 0.028))
+    scale_y_continuous(breaks = seq(0, 0.04, 0.005), limits = c(0, 0.02))
 }
 
 ds <- as.Date(c('04/30/2009', 
@@ -87,12 +87,12 @@ ds <- as.Date(c('04/30/2009',
 na.d <- data.frame(Date=ds,
                    y=c(1.926e-2, 1.133e-2, 4.292e-3, 4.6e-3, 4.386e-3, 4.113e-3, 4.298e-3, 4.611e-3, 4.747e-3, 4.858e-3, 5.065e-3, 4.893e-3, 4.597e-3))
 
-na.se <- c(3.95E-3, 1.410E-3, 1.168E-4, 1.466E-5, 1.308E-5, 1.283E-5, 1.134E-5, 1.375E-5, 1.187E-5, 1.196E-5, 1.062E-5, 1.047E-5, 1.023E-5)
+na.se <- c(1.484E-4, 9.906E-5, 1.168E-4, 1.466E-5, 1.308E-5, 1.283E-5, 1.134E-5, 1.375E-5, 1.187E-5, 1.196E-5, 1.062E-5, 1.047E-5, 1.023E-5)
 
 na.ci <- aes(ymax = na.d$y+1.96*na.se, 
              ymin = na.d$y-1.96*na.se)
 
-p1 <- plot.mc(na.d, na.ci, ds)
+p2 <- plot.mc(na.d, na.ci, ds)
 
 ha.d <- data.frame(Date=ds,
                    y=c(1.598e-2, 1.1675e-2, 6.646e-3, 5.709e-3, 5.554e-3, 4.343e-3, 4.444e-3, 4.579e-3, 4.59e-3, 4.512e-3, 4.837e-3, 5.242e-3, 5.1862e-3))
@@ -102,12 +102,9 @@ ha.se <- c(1.775E-4, 9.975E-5, 1.133E-4, 2.161E-5, 1.927E-5, 1.302E-5, 1.006E-5,
 ha.ci <- aes(ymax = ha.d$y+1.96*ha.se, 
              ymin = ha.d$y-1.96*ha.se)
 
-p2 <- plot.mc(ha.d, ha.ci, ds)
+p1 <- plot.mc(ha.d, ha.ci, ds)
 
-p <- ggdraw() +
-  draw_plot(p2, 0, 0, 0.5, 1) +
-  draw_plot(p1, 0.5, 0, .5, 1) +
-  draw_plot_label(c("A", "B"), c(0, 0.5), c(1, 1), size = 16)
+p <- plot_grid(p1, p2, labels = c('A', 'B'))
 
 ggsave(p, file='clock_rate.pdf', height = 6, width = 12)
 
@@ -255,7 +252,7 @@ plot.rh <- function(d, limits, dates.for.plot) {
                                   '',
                                   '',
                                   '05/2011')) +
-    scale_y_continuous(breaks = seq(0, 10, 0.5), limits = c(0, 10))
+    scale_y_continuous(breaks = seq(0, 10, 2), limits = c(0, 10))
 }
 
 na.d <- data.frame(Date=ds,
