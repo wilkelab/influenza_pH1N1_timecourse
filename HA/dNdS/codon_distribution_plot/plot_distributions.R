@@ -105,14 +105,14 @@ ggsave(p.manuscript, filename = 'codon_distribution_manuscript.pdf', height = 5,
 #h3.p <- plot.density(data.frame(x = h3.dat$FEL.dN.dS, id = rep('H3', length(h3.dat$FEL.dN.dS))), "Hemagglutinin 3")
 
 plot.data <- data.frame(id = as.vector(sapply(rep(1:6), function(x) rep(x, 25))), x=rep(1:25, 6), y=c(fractions.1, fractions.2, fractions.3, fractions.4, fractions.5, fractions.6) )
-p <- ggplot(plot.data, aes(x=x, y=y, group=id, color=id)) + 
-  geom_line() + 
+p <- ggplot(plot.data, aes(x=x, y=y, group=id, color=factor(id))) + 
+  geom_path(size=1.5, lineend = "round", linejoin="mitre") + 
   guides(colour = guide_legend(order = 1)) +
-  scale_color_gradientn(name='Distinct\nCodons', colours=c('#001e00', '#8ac896')) +
-  #scale_color_brewer(palette='Set1') + 
+  #scale_color_gradientn(name='Distinct\nCodons') +
+  scale_colour_hue(name='Distinct\nCodons', l=60) + 
   scale_y_continuous(limits=c(0,1)) + 
   scale_x_continuous(limits=c(1,25)) + 
   ylab('Fraction of Total Codons') + 
   xlab('Time (Months)') +
   theme(legend.position = c(1, 1), legend.justification = c(1, 1))
-ggsave(p, filename='fraction_no_mutations.pdf', height=5, width=5.5)
+ggsave(p, filename='fraction_mutations_ha.pdf', height=5, width=5.5)
