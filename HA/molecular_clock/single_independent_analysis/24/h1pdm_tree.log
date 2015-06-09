@@ -1,0 +1,4 @@
+# BEAST v1.8.1, r6542
+# Generated Fri Dec 05 16:17:52 CST 2014 [seed=1417817867409]
+state	posterior	prior	likelihood	treeModel.rootHeight	logistic.popSize	logistic.growthRate	logistic.t50	kappa	frequencies1	frequencies2	frequencies3	frequencies4	clock.rate	treeLikelihood
+0	-102615.71135162466	-7936.567851668128	-94679.14349995654	10.16039867162968	20.0	0.05	5.0	2.0	0.2500000001	0.2499999999	0.2500000001	0.2499999999	0.005	-94679.14349995654

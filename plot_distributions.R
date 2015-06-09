@@ -211,7 +211,7 @@ fr <- function(par) {
   return(sum(abs(means - empirical)))
 }
 
-fit <- optim(par = c(0.5, 1.5), fr, method="Nelder-Mead", control = list(maxit = 10000, trace=T))
+fit <- optim(par = c(0.5, 1.5), fr, method="Nelder-Mead", control = list(maxit = 10000))
 
 #fit <- fitdistr(df$x, 'gamma', list(shape = 1, scale = 1.5), lower = 0.4, method='L-BFGS-B')
 
@@ -223,7 +223,7 @@ fit.p <- ggplot(df, aes(x=x)) +
   ylab('Count') +
   xlab('dN/dS') +
   scale_fill_discrete(name='Data') +
-  scale_x_continuous(limit = c(-0.02, max(df$x)))
+  scale_x_continuous(limit = c(-0.02, 4))
 
 show(fit.p)
 
