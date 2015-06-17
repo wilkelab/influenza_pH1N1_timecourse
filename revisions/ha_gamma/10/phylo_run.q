@@ -29,7 +29,7 @@ cd $WDIR
 cp $FDIR/* .
 
 # Command to run
-/share/apps/BEAST.v1.7.5/bin/beast -java -overwrite beast_runfile.xml
+/share/apps/BEAST.v1.7.5/bin/beast -java -beagle -beagle_CPU -beagle_instances 16 -overwrite beast_runfile.xml
 
 # Copy Results Back to Home Directory
 mkdir -p $RDIR
