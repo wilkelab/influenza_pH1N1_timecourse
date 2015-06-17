@@ -3342,18 +3342,32 @@
 		<alignment idref="alignment"/>
 	</patterns>
 
-	<!-- A prior assumption that the population size has remained constant       -->
+	<!-- A prior assumption that the population size has grown logistically      -->
 	<!-- throughout the time spanned by the genealogy.                           -->
-	<constantSize id="constant" units="years">
+	<logisticGrowth id="logistic" units="years">
 		<populationSize>
-			<parameter id="constant.popSize" value="20.0" lower="0.0"/>
+			<parameter id="logistic.popSize" value="20.0" lower="0.0"/>
+		</populationSize>
+		<growthRate>
+			<parameter id="logistic.growthRate" value="0.02"/>
+		</growthRate>
+		<t50>
+			<parameter id="logistic.t50" value="1.0" lower="0.0"/>
+		</t50>
+	</logisticGrowth>
+
+	<!-- This is a simple constant population size coalescent model              -->
+	<!-- that is used to generate an initial tree for the chain.                 -->
+	<constantSize id="initialDemo" units="years">
+		<populationSize>
+			<parameter idref="logistic.popSize"/>
 		</populationSize>
 	</constantSize>
 
 	<!-- Generate a random starting tree under the coalescent process            -->
 	<coalescentSimulator id="startingTree">
 		<taxa idref="taxa"/>
-		<constantSize idref="constant"/>
+		<constantSize idref="initialDemo"/>
 	</coalescentSimulator>
 
 	<!-- Generate a tree model                                                   -->
@@ -3373,7 +3387,7 @@
 	<!-- Generate a coalescent likelihood                                        -->
 	<coalescentLikelihood id="coalescent">
 		<model>
-			<constantSize idref="constant"/>
+			<logisticGrowth idref="logistic"/>
 		</model>
 		<populationTree>
 			<treeModel idref="treeModel"/>
@@ -3452,7 +3466,13 @@
 			<parameter idref="treeModel.internalNodeHeights"/>
 		</uniformOperator>
 		<scaleOperator scaleFactor="0.75" weight="3">
-			<parameter idref="constant.popSize"/>
+			<parameter idref="logistic.popSize"/>
+		</scaleOperator>
+		<randomWalkOperator windowSize="1.0" weight="3">
+			<parameter idref="logistic.growthRate"/>
+		</randomWalkOperator>
+		<scaleOperator scaleFactor="0.75" weight="3">
+			<parameter idref="logistic.t50"/>
 		</scaleOperator>
 		<upDownOperator scaleFactor="0.75" weight="3">
 			<up>
@@ -3465,7 +3485,7 @@
 	</operators>
 
 	<!-- Define MCMC                                                             -->
-	<mcmc id="mcmc" chainLength="10000000" autoOptimize="true">
+	<mcmc id="mcmc" chainLength="500000000" autoOptimize="true">
 		<posterior id="posterior">
 			<prior id="prior">
 				<logNormalPrior mean="1.0" stdev="1.25" offset="0.0" meanInRealSpace="false">
@@ -3484,8 +3504,14 @@
 					<treeModel idref="treeModel"/>
 				</ctmcScalePrior>
 				<oneOnXPrior>
-					<parameter idref="constant.popSize"/>
+					<parameter idref="logistic.popSize"/>
 				</oneOnXPrior>
+				<laplacePrior mean="0.0" scale="0.34538776394910686">
+					<parameter idref="logistic.growthRate"/>
+				</laplacePrior>
+				<gammaPrior shape="0.0010" scale="1000.0" offset="0.0">
+					<parameter idref="logistic.t50"/>
+				</gammaPrior>
 				<coalescentLikelihood idref="coalescent"/>
 			</prior>
 			<likelihood id="likelihood">
@@ -3495,7 +3521,7 @@
 		<operators idref="operators"/>
 
 		<!-- write log to screen                                                     -->
-		<log id="screenLog" logEvery="1000">
+		<log id="screenLog" logEvery="50000">
 			<column label="Posterior" dp="4" width="12">
 				<posterior idref="posterior"/>
 			</column>
@@ -3514,12 +3540,14 @@
 		</log>
 
 		<!-- write log to file                                                       -->
-		<log id="fileLog" logEvery="1000" fileName="beast_runfile.log" overwrite="false">
+		<log id="fileLog" logEvery="50000" fileName="beast_runfile.log" overwrite="false">
 			<posterior idref="posterior"/>
 			<prior idref="prior"/>
 			<likelihood idref="likelihood"/>
 			<parameter idref="treeModel.rootHeight"/>
-			<parameter idref="constant.popSize"/>
+			<parameter idref="logistic.popSize"/>
+			<parameter idref="logistic.growthRate"/>
+			<parameter idref="logistic.t50"/>
 			<parameter idref="kappa"/>
 			<parameter idref="frequencies"/>
 			<parameter idref="alpha"/>
@@ -3529,7 +3557,7 @@
 		</log>
 
 		<!-- write tree log to file                                                  -->
-		<logTree id="treeFileLog" logEvery="1000" nexusFormat="true" fileName="beast_runfile.trees" sortTranslationTable="true">
+		<logTree id="treeFileLog" logEvery="50000" nexusFormat="true" fileName="beast_runfile.trees" sortTranslationTable="true">
 			<treeModel idref="treeModel"/>
 			<trait name="rate" tag="rate">
 				<strictClockBranchRates idref="branchRates"/>
