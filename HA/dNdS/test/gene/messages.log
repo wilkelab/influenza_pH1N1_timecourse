@@ -1,0 +1,2019 @@
+
+Variable 'skipCodeSelectionStep' was not initialized prior to being used
+Row and/or column partition is empty. All the data will be used by default.
+Overwritten previously defined function:'GaussLaguerreQuardature'
+Overwritten previously defined function:'GammaQuadWeight'
+Variable 'SKIP_MODEL_PARAMETER_LIST' was not initialized prior to being used
+Variable 'SKIP_DISTRIBUTION_CHOICE' was not initialized prior to being used
+Variable 'END_OF_FILE' was not initialized prior to being used
+Variable alpha mapped to class {1,1,1,1}
+Variable '_WRAP_PASSTHROUGH_FLAG_' was not initialized prior to being used
+Variable 'PROMPT_FOR_FILE' was not initialized prior to being used
+No nodel was assigned to A_Mexico_24038_2009_04_28_2009
+A_Mexico_24038_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_24015_2009_04_25_2009
+A_Mexico_24015_2009_04_25_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_24048_2009_04_27_2009
+A_Mexico_24048_2009_04_27_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node5
+Node5 has 0 parameters - branch length not assigned
+No nodel was assigned to Node3
+Node3 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_47N_2009_04_25_2009
+A_Mexico_47N_2009_04_25_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_48N_2009_04_25_2009
+A_Mexico_48N_2009_04_25_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node11
+Node11 has 0 parameters - branch length not assigned
+No nodel was assigned to A_South_Dakota_05_2009_04_30_2009
+A_South_Dakota_05_2009_04_30_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_South_Carolina_09_2009_04_26_2009
+A_South_Carolina_09_2009_04_26_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node15
+Node15 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Indiana_12_2009_04_29_2009
+A_Indiana_12_2009_04_29_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Canada_QC_RV1595_2009_04_16_2009
+A_Canada_QC_RV1595_2009_04_16_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Louisiana_04_2009_04_30_2009
+A_Louisiana_04_2009_04_30_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Canada_PQ_RV1586_2009_04_26_2009
+A_Canada_PQ_RV1586_2009_04_26_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Louisiana_02_2009_04_29_2009
+A_Louisiana_02_2009_04_29_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_24036_2009_04_27_2009
+A_Mexico_24036_2009_04_27_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3181_2009_04_28_2009
+A_New_York_3181_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Pennsylvania_10_2009_04_28_2009
+A_Pennsylvania_10_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Montreal_01_2009_04_26_2009
+A_Montreal_01_2009_04_26_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node18
+Node18 has 0 parameters - branch length not assigned
+No nodel was assigned to Node14
+Node14 has 0 parameters - branch length not assigned
+No nodel was assigned to Node10
+Node10 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_4269_2009_04_15_2009
+A_Mexico_4269_2009_04_15_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_24028_2009_04_28_2009
+A_Mexico_24028_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node28
+Node28 has 0 parameters - branch length not assigned
+No nodel was assigned to Node9
+Node9 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Arizona_02_2009_04_26_2009
+A_Arizona_02_2009_04_26_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_24040_2009_04_29_2009
+A_Mexico_24040_2009_04_29_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node32
+Node32 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_24050_2009_04_27_2009
+A_Mexico_24050_2009_04_27_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node31
+Node31 has 0 parameters - branch length not assigned
+No nodel was assigned to Node8
+Node8 has 0 parameters - branch length not assigned
+No nodel was assigned to Node2
+Node2 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_24049_2009_04_27_2009
+A_Mexico_24049_2009_04_27_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Texas_15_2009_04_15_2009
+A_Texas_15_2009_04_15_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node38
+Node38 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Houston_13OS_2009_04_28_2009
+A_Houston_13OS_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Indiana_09_2009_04_22_2009
+A_Indiana_09_2009_04_22_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Michigan_04_2009_04_24_2009
+A_Michigan_04_2009_04_24_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node43
+Node43 has 0 parameters - branch length not assigned
+No nodel was assigned to Node41
+Node41 has 0 parameters - branch length not assigned
+No nodel was assigned to Node37
+Node37 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Canada_SK_RV1788_2009_04_30_2009
+A_Canada_SK_RV1788_2009_04_30_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Florida_10_2009_04_30_2009
+A_Florida_10_2009_04_30_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node48
+Node48 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_InDRE13494_2009_04_29_2009
+A_Mexico_InDRE13494_2009_04_29_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_24054_2009_04_27_2009
+A_Mexico_24054_2009_04_27_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node52
+Node52 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_24058_2009_04_28_2009
+A_Mexico_24058_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_24039_2009_04_29_2009
+A_Mexico_24039_2009_04_29_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_24026_2009_04_28_2009
+A_Mexico_24026_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Texas_07_2009_04_25_2009
+A_Texas_07_2009_04_25_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Minnesota_02_2009_04_27_2009
+A_Minnesota_02_2009_04_27_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_24043_2009_04_17_2009
+A_Mexico_24043_2009_04_17_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_24057_2009_04_28_2009
+A_Mexico_24057_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Texas_28_2009_04_29_2009
+A_Texas_28_2009_04_29_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node66
+Node66 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_24021_2009_04_23_2009
+A_Mexico_24021_2009_04_23_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_24047_2009_04_27_2009
+A_Mexico_24047_2009_04_27_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node72
+Node72 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_24027_2009_04_28_2009
+A_Mexico_24027_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Texas_36_2009_04_29_2009
+A_Texas_36_2009_04_29_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node75
+Node75 has 0 parameters - branch length not assigned
+No nodel was assigned to Node71
+Node71 has 0 parameters - branch length not assigned
+No nodel was assigned to Node65
+Node65 has 0 parameters - branch length not assigned
+No nodel was assigned to Node63
+Node63 has 0 parameters - branch length not assigned
+No nodel was assigned to Node61
+Node61 has 0 parameters - branch length not assigned
+No nodel was assigned to Node59
+Node59 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Brawley_WR1636P_2009_04_29_2009
+A_Brawley_WR1636P_2009_04_29_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_24060_2009_04_28_2009
+A_Mexico_24060_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node79
+Node79 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Brawley_40081_2009_04_22_2009
+A_Brawley_40081_2009_04_22_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_California_12_2009_04_22_2009
+A_California_12_2009_04_22_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node83
+Node83 has 0 parameters - branch length not assigned
+No nodel was assigned to A_San_Diego_WR1629P_2009_04_30_2009
+A_San_Diego_WR1629P_2009_04_30_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Washington_11_2009_04_26_2009
+A_Washington_11_2009_04_26_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Colorado_03_2009_04_27_2009
+A_Colorado_03_2009_04_27_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Idaho_02_2009_04_28_2009
+A_Idaho_02_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Colorado_04_2009_04_26_2009
+A_Colorado_04_2009_04_26_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Wisconsin_09_2009_04_27_2009
+A_Wisconsin_09_2009_04_27_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node91
+Node91 has 0 parameters - branch length not assigned
+No nodel was assigned to A_California_06_2009_04_16_2009
+A_California_06_2009_04_16_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node90
+Node90 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Brawley_WR1635P_2009_04_28_2009
+A_Brawley_WR1635P_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_California_10_2009_04_08_2009
+A_California_10_2009_04_08_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_California_11_2009_04_24_2009
+A_California_11_2009_04_24_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Brawley_40082_2009_04_21_2009
+A_Brawley_40082_2009_04_21_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_24044_2009_04_20_2009
+A_Mexico_24044_2009_04_20_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_California_18_2009_04_30_2009
+A_California_18_2009_04_30_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Hawaii_09_2009_04_30_2009
+A_Hawaii_09_2009_04_30_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_California_13_2009_04_21_2009
+A_California_13_2009_04_21_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node99
+Node99 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Arizona_06_2009_04_28_2009
+A_Arizona_06_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_San_Diego_WR1631P_2009_04_30_2009
+A_San_Diego_WR1631P_2009_04_30_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_California_17_2009_04_25_2009
+A_California_17_2009_04_25_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node110
+Node110 has 0 parameters - branch length not assigned
+No nodel was assigned to Node108
+Node108 has 0 parameters - branch length not assigned
+No nodel was assigned to Node98
+Node98 has 0 parameters - branch length not assigned
+No nodel was assigned to Node89
+Node89 has 0 parameters - branch length not assigned
+No nodel was assigned to Node87
+Node87 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Cherry_Point_WR1355_2009_04_28_2009
+A_Cherry_Point_WR1355_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Cherry_Point_WR0080_2009_04_30_2009
+A_Cherry_Point_WR0080_2009_04_30_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node113
+Node113 has 0 parameters - branch length not assigned
+No nodel was assigned to Node86
+Node86 has 0 parameters - branch length not assigned
+No nodel was assigned to Node82
+Node82 has 0 parameters - branch length not assigned
+No nodel was assigned to Node78
+Node78 has 0 parameters - branch length not assigned
+No nodel was assigned to Node58
+Node58 has 0 parameters - branch length not assigned
+No nodel was assigned to Node56
+Node56 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_InDRE13547_2009_04_27_2009
+A_Mexico_InDRE13547_2009_04_27_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_24052_2009_04_27_2009
+A_Mexico_24052_2009_04_27_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node116
+Node116 has 0 parameters - branch length not assigned
+No nodel was assigned to Node55
+Node55 has 0 parameters - branch length not assigned
+No nodel was assigned to Node51
+Node51 has 0 parameters - branch length not assigned
+No nodel was assigned to Node47
+Node47 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Alabama_02_2009_04_27_2009
+A_Alabama_02_2009_04_27_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Tennessee_05_2009_04_28_2009
+A_Tennessee_05_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node120
+Node120 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Kentucky_05_2009_04_30_2009
+A_Kentucky_05_2009_04_30_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node119
+Node119 has 0 parameters - branch length not assigned
+No nodel was assigned to Node46
+Node46 has 0 parameters - branch length not assigned
+No nodel was assigned to Node36
+Node36 has 0 parameters - branch length not assigned
+No nodel was assigned to Node1
+Node1 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Florida_04_2009_04_27_2009
+A_Florida_04_2009_04_27_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Kansas_03_2009_04_24_2009
+A_Kansas_03_2009_04_24_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node127
+Node127 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Washington_12_2009_04_27_2009
+A_Washington_12_2009_04_27_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node126
+Node126 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Canada_NS_RV1554_2009_04_29_2009
+A_Canada_NS_RV1554_2009_04_29_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Canada_NS_RV1551_2009_04_29_2009
+A_Canada_NS_RV1551_2009_04_29_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Canada_NS_RV1565_2009_04_30_2009
+A_Canada_NS_RV1565_2009_04_30_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Canada_NS_RV1535_2009_04_24_2009
+A_Canada_NS_RV1535_2009_04_24_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node132
+Node132 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Oregon_05_2009_04_29_2009
+A_Oregon_05_2009_04_29_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node131
+Node131 has 0 parameters - branch length not assigned
+No nodel was assigned to Node125
+Node125 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Texas_37_2009_04_26_2009
+A_Texas_37_2009_04_26_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Texas_17_2009_04_24_2009
+A_Texas_17_2009_04_24_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node140
+Node140 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_InDRE4487_2009_04_14_2009
+A_Mexico_InDRE4487_2009_04_14_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_4603_2009_04_19_2009
+A_Mexico_4603_2009_04_19_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node143
+Node143 has 0 parameters - branch length not assigned
+No nodel was assigned to Node139
+Node139 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Wisconsin_629_D00015_2009_04_30_2009
+A_Wisconsin_629_D00015_2009_04_30_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_24061_2009_04_28_2009
+A_Mexico_24061_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node147
+Node147 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_24055_2009_04_28_2009
+A_Mexico_24055_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_California_07_JRO09_2009_04_09_2009
+A_California_07_JRO09_2009_04_09_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_California_07_JRO10_2009_04_09_2009
+A_California_07_JRO10_2009_04_09_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_California_07_2009_04_09_2009
+A_California_07_2009_04_09_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_California_04_2009_04_01_2009
+A_California_04_2009_04_01_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Pennsylvania_09_2009_04_30_2009
+A_Pennsylvania_09_2009_04_30_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node160
+Node160 has 0 parameters - branch length not assigned
+No nodel was assigned to Node158
+Node158 has 0 parameters - branch length not assigned
+No nodel was assigned to A_California_07_JRO08_2009_04_09_2009
+A_California_07_JRO08_2009_04_09_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_California_07_JRO03_2009_04_09_2009
+A_California_07_JRO03_2009_04_09_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_California_08_2009_04_09_2009
+A_California_08_2009_04_09_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_California_07_JRO02_2009_04_09_2009
+A_California_07_JRO02_2009_04_09_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node163
+Node163 has 0 parameters - branch length not assigned
+No nodel was assigned to Node157
+Node157 has 0 parameters - branch length not assigned
+No nodel was assigned to Node155
+Node155 has 0 parameters - branch length not assigned
+No nodel was assigned to Node153
+Node153 has 0 parameters - branch length not assigned
+No nodel was assigned to Node151
+Node151 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_City_024_2009_04_30_2009
+A_Mexico_City_024_2009_04_30_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_4486_2009_04_14_2009
+A_Mexico_4486_2009_04_14_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node173
+Node173 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Alaska_04_2009_05_2009
+A_Alaska_04_2009_05_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_City_020_2009_04_30_2009
+A_Mexico_City_020_2009_04_30_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node176
+Node176 has 0 parameters - branch length not assigned
+No nodel was assigned to Node172
+Node172 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Wisconsin_629_D02361_2009_04_30_2009
+A_Wisconsin_629_D02361_2009_04_30_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Wisconsin_629_D00750_2009_04_30_2009
+A_Wisconsin_629_D00750_2009_04_30_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Iowa_04_2009_04_24_2009
+A_Iowa_04_2009_04_24_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node183
+Node183 has 0 parameters - branch length not assigned
+No nodel was assigned to Node181
+Node181 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Texas_23_2009_04_27_2009
+A_Texas_23_2009_04_27_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node180
+Node180 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Florida_11_2009_04_30_2009
+A_Florida_11_2009_04_30_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node179
+Node179 has 0 parameters - branch length not assigned
+No nodel was assigned to Node171
+Node171 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Wisconsin_629_D01773_2009_04_30_2009
+A_Wisconsin_629_D01773_2009_04_30_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_4502_2009_04_17_2009
+A_Mexico_4502_2009_04_17_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node188
+Node188 has 0 parameters - branch length not assigned
+No nodel was assigned to Node170
+Node170 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Oregon_04_2009_04_27_2009
+A_Oregon_04_2009_04_27_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_4635_2009_04_20_2009
+A_Mexico_4635_2009_04_20_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node192
+Node192 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Wisconsin_629_D02141_2009_04_30_2009
+A_Wisconsin_629_D02141_2009_04_30_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Michigan_02_2009_04_26_2009
+A_Michigan_02_2009_04_26_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Texas_19_2009_04_26_2009
+A_Texas_19_2009_04_26_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_InDRE13551_2009_04_28_2009
+A_Mexico_InDRE13551_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_City_019_2009_04_30_2009
+A_Mexico_City_019_2009_04_30_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_4283_2009_04_15_2009
+A_Mexico_4283_2009_04_15_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_4595_2009_04_20_2009
+A_Mexico_4595_2009_04_20_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Wisconsin_08_2009_04_27_2009
+A_Wisconsin_08_2009_04_27_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Wisconsin_629_D01505_2009_04_28_2009
+A_Wisconsin_629_D01505_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_4604_2009_04_19_2009
+A_Mexico_4604_2009_04_19_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_4482_2009_04_14_2009
+A_Mexico_4482_2009_04_14_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Wisconsin_629_D00447_2009_04_30_2009
+A_Wisconsin_629_D00447_2009_04_30_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Wisconsin_629_D00767_2009_04_30_2009
+A_Wisconsin_629_D00767_2009_04_30_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_4575_2009_04_20_2009
+A_Mexico_4575_2009_04_20_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Wisconsin_07_2009_04_27_2009
+A_Wisconsin_07_2009_04_27_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Wisconsin_629_D01486_2009_04_29_2009
+A_Wisconsin_629_D01486_2009_04_29_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_24024_2009_04_27_2009
+A_Mexico_24024_2009_04_27_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_InDRE13555_2009_04_29_2009
+A_Mexico_InDRE13555_2009_04_29_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Wisconsin_629_D01529_2009_04_30_2009
+A_Wisconsin_629_D01529_2009_04_30_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Wisconsin_629_D01558_2009_04_30_2009
+A_Wisconsin_629_D01558_2009_04_30_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node195
+Node195 has 0 parameters - branch length not assigned
+No nodel was assigned to Node191
+Node191 has 0 parameters - branch length not assigned
+No nodel was assigned to Node169
+Node169 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Canada_AB_RV1531_2009_04_28_2009
+A_Canada_AB_RV1531_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3232_2009_04_30_2009
+A_New_York_3232_2009_04_30_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3348_2009_04_28_2009
+A_New_York_3348_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Rhode_Island_03_2009_04_30_2009
+A_Rhode_Island_03_2009_04_30_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node223
+Node223 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Rhode_Island_02_2009_04_28_2009
+A_Rhode_Island_02_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node222
+Node222 has 0 parameters - branch length not assigned
+No nodel was assigned to Node220
+Node220 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_23_2009_04_24_2009
+A_New_York_23_2009_04_24_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_34_2009_04_25_2009
+A_New_York_34_2009_04_25_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node229
+Node229 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3189_2009_04_29_2009
+A_New_York_3189_2009_04_29_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3198_2009_04_29_2009
+A_New_York_3198_2009_04_29_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node235
+Node235 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3007_2009_04_27_2009
+A_New_York_3007_2009_04_27_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Ohio_08_2009_04_27_2009
+A_Ohio_08_2009_04_27_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Ohio_07_2009_04_24_2009
+A_Ohio_07_2009_04_24_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node239
+Node239 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Georgia_01_2009_04_27_2009
+A_Georgia_01_2009_04_27_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node238
+Node238 has 0 parameters - branch length not assigned
+No nodel was assigned to Node234
+Node234 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3012_2009_04_27_2009
+A_New_York_3012_2009_04_27_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node233
+Node233 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3205_2009_04_26_2009
+A_New_York_3205_2009_04_26_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3217_2009_04_25_2009
+A_New_York_3217_2009_04_25_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node246
+Node246 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3195_2009_04_28_2009
+A_New_York_3195_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3199_2009_04_28_2009
+A_New_York_3199_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node249
+Node249 has 0 parameters - branch length not assigned
+No nodel was assigned to Node245
+Node245 has 0 parameters - branch length not assigned
+No nodel was assigned to Node232
+Node232 has 0 parameters - branch length not assigned
+No nodel was assigned to Node228
+Node228 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3196_2009_04_28_2009
+A_New_York_3196_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3209_2009_04_25_2009
+A_New_York_3209_2009_04_25_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3124_2009_04_28_2009
+A_New_York_3124_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3247_2009_04_29_2009
+A_New_York_3247_2009_04_29_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_31_2009_04_24_2009
+A_New_York_31_2009_04_24_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Canada_ON_RV1589_2009_04_27_2009
+A_Canada_ON_RV1589_2009_04_27_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3236_2009_04_28_2009
+A_New_York_3236_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3206_2009_04_26_2009
+A_New_York_3206_2009_04_26_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_06_2009_04_25_2009
+A_New_York_06_2009_04_25_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3203_2009_04_27_2009
+A_New_York_3203_2009_04_27_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3238_2009_04_28_2009
+A_New_York_3238_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3204_2009_04_27_2009
+A_New_York_3204_2009_04_27_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3210_2009_04_24_2009
+A_New_York_3210_2009_04_24_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3008_2009_04_27_2009
+A_New_York_3008_2009_04_27_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_15_2009_04_25_2009
+A_New_York_15_2009_04_25_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_18_2009_04_25_2009
+A_New_York_18_2009_04_25_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_39_2009_04_25_2009
+A_New_York_39_2009_04_25_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3227_2009_04_28_2009
+A_New_York_3227_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3169_2009_04_26_2009
+A_New_York_3169_2009_04_26_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3188_2009_04_28_2009
+A_New_York_3188_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3261_2009_04_29_2009
+A_New_York_3261_2009_04_29_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3049_2009_04_27_2009
+A_New_York_3049_2009_04_27_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3235_2009_04_28_2009
+A_New_York_3235_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Canada_ON_RV1527_2009_04_24_2009
+A_Canada_ON_RV1527_2009_04_24_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3176_2009_04_26_2009
+A_New_York_3176_2009_04_26_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_24_2009_04_24_2009
+A_New_York_24_2009_04_24_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_21_2009_04_24_2009
+A_New_York_21_2009_04_24_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3234_2009_04_28_2009
+A_New_York_3234_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_20_2009_04_25_2009
+A_New_York_20_2009_04_25_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3365_2009_04_30_2009
+A_New_York_3365_2009_04_30_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3185_2009_04_29_2009
+A_New_York_3185_2009_04_29_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_26_2009_04_24_2009
+A_New_York_26_2009_04_24_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Nebraska_03_2009_04_27_2009
+A_Nebraska_03_2009_04_27_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3186_2009_04_26_2009
+A_New_York_3186_2009_04_26_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_22_2009_04_24_2009
+A_New_York_22_2009_04_24_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3264_2009_04_29_2009
+A_New_York_3264_2009_04_29_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3014_2009_04_27_2009
+A_New_York_3014_2009_04_27_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Virginia_04_2009_04_27_2009
+A_Virginia_04_2009_04_27_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3225_2009_04_27_2009
+A_New_York_3225_2009_04_27_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3002_2009_04_25_2009
+A_New_York_3002_2009_04_25_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Massachusetts_06_2009_04_26_2009
+A_Massachusetts_06_2009_04_26_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Massachusetts_07_2009_04_25_2009
+A_Massachusetts_07_2009_04_25_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3230_2009_04_28_2009
+A_New_York_3230_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_California_14_2009_04_25_2009
+A_California_14_2009_04_25_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_District_of_Columbia_01_2009_04_27_2009
+A_District_of_Columbia_01_2009_04_27_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3166_2009_04_26_2009
+A_New_York_3166_2009_04_26_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3173_2009_04_28_2009
+A_New_York_3173_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_13_2009_04_25_2009
+A_New_York_13_2009_04_25_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3191_2009_04_25_2009
+A_New_York_3191_2009_04_25_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3167_2009_04_28_2009
+A_New_York_3167_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Utah_02_2009_04_28_2009
+A_Utah_02_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3237_2009_04_28_2009
+A_New_York_3237_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3172_2009_04_27_2009
+A_New_York_3172_2009_04_27_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3184_2009_04_28_2009
+A_New_York_3184_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3193_2009_04_28_2009
+A_New_York_3193_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3190_2009_04_29_2009
+A_New_York_3190_2009_04_29_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Nevada_03_2009_04_26_2009
+A_Nevada_03_2009_04_26_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3168_2009_04_26_2009
+A_New_York_3168_2009_04_26_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3215_2009_04_25_2009
+A_New_York_3215_2009_04_25_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_11_2009_04_25_2009
+A_New_York_11_2009_04_25_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_10_2009_04_25_2009
+A_New_York_10_2009_04_25_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3194_2009_04_30_2009
+A_New_York_3194_2009_04_30_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_19_2009_04_25_2009
+A_New_York_19_2009_04_25_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3207_2009_04_26_2009
+A_New_York_3207_2009_04_26_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3260_2009_04_27_2009
+A_New_York_3260_2009_04_27_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3211_2009_04_28_2009
+A_New_York_3211_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_35_2009_04_25_2009
+A_New_York_35_2009_04_25_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3265_2009_04_29_2009
+A_New_York_3265_2009_04_29_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_16_2009_04_24_2009
+A_New_York_16_2009_04_24_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_09_2009_04_25_2009
+A_New_York_09_2009_04_25_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node252
+Node252 has 0 parameters - branch length not assigned
+No nodel was assigned to Node227
+Node227 has 0 parameters - branch length not assigned
+No nodel was assigned to Node219
+Node219 has 0 parameters - branch length not assigned
+No nodel was assigned to Node217
+Node217 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Wisconsin_629_D01642_2009_04_29_2009
+A_Wisconsin_629_D01642_2009_04_29_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node216
+Node216 has 0 parameters - branch length not assigned
+No nodel was assigned to Node168
+Node168 has 0 parameters - branch length not assigned
+No nodel was assigned to Node150
+Node150 has 0 parameters - branch length not assigned
+No nodel was assigned to Node146
+Node146 has 0 parameters - branch length not assigned
+No nodel was assigned to Node138
+Node138 has 0 parameters - branch length not assigned
+No nodel was assigned to Node124
+Node124 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_4108_2009_04_03_2009
+A_Mexico_4108_2009_04_03_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Texas_11_2009_04_23_2009
+A_Texas_11_2009_04_23_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_North_Carolina_05_2009_04_28_2009
+A_North_Carolina_05_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Oklahoma_01_2009_04_28_2009
+A_Oklahoma_01_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Texas_22_2009_04_26_2009
+A_Texas_22_2009_04_26_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Kansas_02_2009_04_24_2009
+A_Kansas_02_2009_04_24_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Texas_05_2009_04_15_2009
+A_Texas_05_2009_04_15_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Texas_09_2009_04_25_2009
+A_Texas_09_2009_04_25_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Texas_12_2009_04_24_2009
+A_Texas_12_2009_04_24_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Texas_04_2009_04_14_2009
+A_Texas_04_2009_04_14_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Texas_08_2009_04_24_2009
+A_Texas_08_2009_04_24_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Texas_06_2009_04_23_2009
+A_Texas_06_2009_04_23_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_San_Antonio_PR921_2009_04_14_2009
+A_San_Antonio_PR921_2009_04_14_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node333
+Node333 has 0 parameters - branch length not assigned
+No nodel was assigned to Node331
+Node331 has 0 parameters - branch length not assigned
+No nodel was assigned to Node329
+Node329 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_4627_2009_04_20_2009
+A_Mexico_4627_2009_04_20_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Delaware_07_2009_04_28_2009
+A_Delaware_07_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_District_of_Columbia_03_2009_04_27_2009
+A_District_of_Columbia_03_2009_04_27_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_1682_2009_04_27_2009
+A_New_York_1682_2009_04_27_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_District_of_Columbia_02_2009_04_29_2009
+A_District_of_Columbia_02_2009_04_29_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Delaware_03_2009_04_28_2009
+A_Delaware_03_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Maryland_05_2009_04_29_2009
+A_Maryland_05_2009_04_29_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_Hampshire_02_2009_04_28_2009
+A_New_Hampshire_02_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3100_2009_04_30_2009
+A_New_York_3100_2009_04_30_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Delaware_04_2009_04_28_2009
+A_Delaware_04_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Delaware_02_2009_04_28_2009
+A_Delaware_02_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3183_2009_04_28_2009
+A_New_York_3183_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node349
+Node349 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Delaware_06_2009_04_28_2009
+A_Delaware_06_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3099_2009_04_29_2009
+A_New_York_3099_2009_04_29_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node360
+Node360 has 0 parameters - branch length not assigned
+No nodel was assigned to Node348
+Node348 has 0 parameters - branch length not assigned
+No nodel was assigned to Node346
+Node346 has 0 parameters - branch length not assigned
+No nodel was assigned to Node344
+Node344 has 0 parameters - branch length not assigned
+No nodel was assigned to Node328
+Node328 has 0 parameters - branch length not assigned
+No nodel was assigned to Node326
+Node326 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_24051_2009_04_27_2009
+A_Mexico_24051_2009_04_27_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node325
+Node325 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_24045_2009_04_20_2009
+A_Mexico_24045_2009_04_20_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_24053_2009_04_27_2009
+A_Mexico_24053_2009_04_27_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_24022_2009_04_27_2009
+A_Mexico_24022_2009_04_27_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_24033_2009_04_14_2009
+A_Mexico_24033_2009_04_14_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Illinois_01_2009_04_24_2009
+A_Illinois_01_2009_04_24_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_24056_2009_04_28_2009
+A_Mexico_24056_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Michigan_30_2009_04_10_2009
+A_Michigan_30_2009_04_10_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_4176_2009_04_13_2009
+A_Mexico_4176_2009_04_13_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Nevada_04_2009_04_29_2009
+A_Nevada_04_2009_04_29_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3178_2009_04_28_2009
+A_New_York_3178_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Washington_08_2009_04_27_2009
+A_Washington_08_2009_04_27_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Arizona_01_2009_04_22_2009
+A_Arizona_01_2009_04_22_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_4646_2009_04_20_2009
+A_Mexico_4646_2009_04_20_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Toronto_3141_2009_04_24_2009
+A_Toronto_3141_2009_04_24_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_24030_2009_04_29_2009
+A_Mexico_24030_2009_04_29_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_North_Carolina_06_2009_04_28_2009
+A_North_Carolina_06_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_3074_2009_04_29_2009
+A_New_York_3074_2009_04_29_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_4593_2009_04_20_2009
+A_Mexico_4593_2009_04_20_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Washington_07_2009_04_28_2009
+A_Washington_07_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_InDRE13495_2009_04_29_2009
+A_Mexico_InDRE13495_2009_04_29_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_Mexico_04_2009_04_26_2009
+A_New_Mexico_04_2009_04_26_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Washington_09_2009_04_28_2009
+A_Washington_09_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_24007_2009_04_23_2009
+A_Mexico_24007_2009_04_23_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Washington_18_2009_04_30_2009
+A_Washington_18_2009_04_30_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Oregon_07_2009_04_29_2009
+A_Oregon_07_2009_04_29_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Oregon_06_2009_04_28_2009
+A_Oregon_06_2009_04_28_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_New_York_1669_2009_04_26_2009
+A_New_York_1669_2009_04_26_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_24032_2009_04_17_2009
+A_Mexico_24032_2009_04_17_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Ohio_10_2009_04_30_2009
+A_Ohio_10_2009_04_30_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Mexico_4115_2009_04_07_2009
+A_Mexico_4115_2009_04_07_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Oklahoma_02_2009_04_29_2009
+A_Oklahoma_02_2009_04_29_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to A_Arizona_03_2009_04_26_2009
+A_Arizona_03_2009_04_26_2009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node364
+Node364 has 0 parameters - branch length not assigned
+No nodel was assigned to Node324
+Node324 has 0 parameters - branch length not assigned
+Reroot was called with an unrooted tree. Rerooting was still performed.
+Variable '_KEEP_I_LABELS_' was not initialized prior to being used
+Model MG94model assigned to A_Mexico_24038_2009_04_28_2009
+Branch parameter of A_Mexico_24038_2009_04_28_2009 set to :0.0006400000000000001
+Model MG94model assigned to A_Mexico_24015_2009_04_25_2009
+Branch parameter of A_Mexico_24015_2009_04_25_2009 set to :0.00129
+Model MG94model assigned to A_Mexico_24048_2009_04_27_2009
+Branch parameter of A_Mexico_24048_2009_04_27_2009 set to :0.00065
+Model MG94model assigned to Node10
+Branch parameter of Node10 set to :0.00055
+Model MG94model assigned to Node8
+Branch parameter of Node8 set to :0.00055
+Model MG94model assigned to A_Mexico_47N_2009_04_25_2009
+Branch parameter of A_Mexico_47N_2009_04_25_2009 set to :0.00129
+Model MG94model assigned to A_Mexico_48N_2009_04_25_2009
+Branch parameter of A_Mexico_48N_2009_04_25_2009 set to :0.00055
+Model MG94model assigned to Node16
+Branch parameter of Node16 set to :0.0006400000000000001
+Model MG94model assigned to A_South_Dakota_05_2009_04_30_2009
+Branch parameter of A_South_Dakota_05_2009_04_30_2009 set to :1e-10
+Model MG94model assigned to A_South_Carolina_09_2009_04_26_2009
+Branch parameter of A_South_Carolina_09_2009_04_26_2009 set to :1e-10
+Model MG94model assigned to Node20
+Branch parameter of Node20 set to :0.00065
+Model MG94model assigned to A_Indiana_12_2009_04_29_2009
+Branch parameter of A_Indiana_12_2009_04_29_2009 set to :1e-10
+Model MG94model assigned to A_Canada_QC_RV1595_2009_04_16_2009
+Branch parameter of A_Canada_QC_RV1595_2009_04_16_2009 set to :1e-10
+Model MG94model assigned to A_Louisiana_04_2009_04_30_2009
+Branch parameter of A_Louisiana_04_2009_04_30_2009 set to :1e-10
+Model MG94model assigned to A_Canada_PQ_RV1586_2009_04_26_2009
+Branch parameter of A_Canada_PQ_RV1586_2009_04_26_2009 set to :1e-10
+Model MG94model assigned to A_Louisiana_02_2009_04_29_2009
+Branch parameter of A_Louisiana_02_2009_04_29_2009 set to :1e-10
+Model MG94model assigned to A_Mexico_24036_2009_04_27_2009
+Branch parameter of A_Mexico_24036_2009_04_27_2009 set to :1e-10
+Model MG94model assigned to A_New_York_3181_2009_04_28_2009
+Branch parameter of A_New_York_3181_2009_04_28_2009 set to :1e-10
+Model MG94model assigned to A_Pennsylvania_10_2009_04_28_2009
+Branch parameter of A_Pennsylvania_10_2009_04_28_2009 set to :1e-10
+Model MG94model assigned to A_Montreal_01_2009_04_26_2009
+Branch parameter of A_Montreal_01_2009_04_26_2009 set to :1e-10
+Model MG94model assigned to Node23
+Branch parameter of Node23 set to :0.00055
+Model MG94model assigned to Node19
+Branch parameter of Node19 set to :0.00055
+Model MG94model assigned to Node15
+Branch parameter of Node15 set to :0.00065
+Model MG94model assigned to A_Mexico_4269_2009_04_15_2009
+Branch parameter of A_Mexico_4269_2009_04_15_2009 set to :0.00129
+Model MG94model assigned to A_Mexico_24028_2009_04_28_2009
+Branch parameter of A_Mexico_24028_2009_04_28_2009 set to :0.00065
+Model MG94model assigned to Node33
+Branch parameter of Node33 set to :0.00055
+Model MG94model assigned to Node14
+Branch parameter of Node14 set to :0.00055
+Model MG94model assigned to A_Arizona_02_2009_04_26_2009
+Branch parameter of A_Arizona_02_2009_04_26_2009 set to :1e-10
+Model MG94model assigned to A_Mexico_24040_2009_04_29_2009
+Branch parameter of A_Mexico_24040_2009_04_29_2009 set to :1e-10
+Model MG94model assigned to Node37
+Branch parameter of Node37 set to :0.00055
+Model MG94model assigned to A_Mexico_24050_2009_04_27_2009
+Branch parameter of A_Mexico_24050_2009_04_27_2009 set to :0.00065
+Model MG94model assigned to Node36
+Branch parameter of Node36 set to :0.0006400000000000001
+Model MG94model assigned to Node13
+Branch parameter of Node13 set to :0.00055
+Model MG94model assigned to Node7
+Branch parameter of Node7 set to :0.00055
+Model MG94model assigned to A_Mexico_24049_2009_04_27_2009
+Branch parameter of A_Mexico_24049_2009_04_27_2009 set to :0.00065
+Model MG94model assigned to A_Texas_15_2009_04_15_2009
+Branch parameter of A_Texas_15_2009_04_15_2009 set to :0.00129
+Model MG94model assigned to Node43
+Branch parameter of Node43 set to :0.00055
+Model MG94model assigned to A_Houston_13OS_2009_04_28_2009
+Branch parameter of A_Houston_13OS_2009_04_28_2009 set to :0.00065
+Model MG94model assigned to A_Indiana_09_2009_04_22_2009
+Branch parameter of A_Indiana_09_2009_04_22_2009 set to :1e-10
+Model MG94model assigned to A_Michigan_04_2009_04_24_2009
+Branch parameter of A_Michigan_04_2009_04_24_2009 set to :1e-10
+Model MG94model assigned to Node48
+Branch parameter of Node48 set to :0.00127
+Model MG94model assigned to Node46
+Branch parameter of Node46 set to :0.00055
+Model MG94model assigned to Node42
+Branch parameter of Node42 set to :0.00055
+Model MG94model assigned to A_Canada_SK_RV1788_2009_04_30_2009
+Branch parameter of A_Canada_SK_RV1788_2009_04_30_2009 set to :0.00065
+Model MG94model assigned to A_Florida_10_2009_04_30_2009
+Branch parameter of A_Florida_10_2009_04_30_2009 set to :0.00065
+Model MG94model assigned to Node53
+Branch parameter of Node53 set to :0.00055
+Model MG94model assigned to A_Mexico_InDRE13494_2009_04_29_2009
+Branch parameter of A_Mexico_InDRE13494_2009_04_29_2009 set to :0.00065
+Model MG94model assigned to A_Mexico_24054_2009_04_27_2009
+Branch parameter of A_Mexico_24054_2009_04_27_2009 set to :0.00065
+Model MG94model assigned to Node57
+Branch parameter of Node57 set to :0.00055
+Model MG94model assigned to A_Mexico_24058_2009_04_28_2009
+Branch parameter of A_Mexico_24058_2009_04_28_2009 set to :0.00065
+Model MG94model assigned to A_Mexico_24039_2009_04_29_2009
+Branch parameter of A_Mexico_24039_2009_04_29_2009 set to :0.00055
+Model MG94model assigned to A_Mexico_24026_2009_04_28_2009
+Branch parameter of A_Mexico_24026_2009_04_28_2009 set to :0.00111
+Model MG94model assigned to A_Texas_07_2009_04_25_2009
+Branch parameter of A_Texas_07_2009_04_25_2009 set to :0.00065
+Model MG94model assigned to A_Minnesota_02_2009_04_27_2009
+Branch parameter of A_Minnesota_02_2009_04_27_2009 set to :1e-10
+Model MG94model assigned to A_Mexico_24043_2009_04_17_2009
+Branch parameter of A_Mexico_24043_2009_04_17_2009 set to :1e-10
+Model MG94model assigned to A_Mexico_24057_2009_04_28_2009
+Branch parameter of A_Mexico_24057_2009_04_28_2009 set to :1e-10
+Model MG94model assigned to A_Texas_28_2009_04_29_2009
+Branch parameter of A_Texas_28_2009_04_29_2009 set to :1e-10
+Model MG94model assigned to Node71
+Branch parameter of Node71 set to :0.00055
+Model MG94model assigned to A_Mexico_24021_2009_04_23_2009
+Branch parameter of A_Mexico_24021_2009_04_23_2009 set to :0.0006400000000000001
+Model MG94model assigned to A_Mexico_24047_2009_04_27_2009
+Branch parameter of A_Mexico_24047_2009_04_27_2009 set to :0.00128
+Model MG94model assigned to Node77
+Branch parameter of Node77 set to :0.00055
+Model MG94model assigned to A_Mexico_24027_2009_04_28_2009
+Branch parameter of A_Mexico_24027_2009_04_28_2009 set to :0.00129
+Model MG94model assigned to A_Texas_36_2009_04_29_2009
+Branch parameter of A_Texas_36_2009_04_29_2009 set to :0.00065
+Model MG94model assigned to Node80
+Branch parameter of Node80 set to :0.00055
+Model MG94model assigned to Node76
+Branch parameter of Node76 set to :0.00055
+Model MG94model assigned to Node70
+Branch parameter of Node70 set to :0.00055
+Model MG94model assigned to Node68
+Branch parameter of Node68 set to :0.00055
+Model MG94model assigned to Node66
+Branch parameter of Node66 set to :0.00129
+Model MG94model assigned to Node64
+Branch parameter of Node64 set to :0.00055
+Model MG94model assigned to A_Brawley_WR1636P_2009_04_29_2009
+Branch parameter of A_Brawley_WR1636P_2009_04_29_2009 set to :0.00054
+Model MG94model assigned to A_Mexico_24060_2009_04_28_2009
+Branch parameter of A_Mexico_24060_2009_04_28_2009 set to :0.00055
+Model MG94model assigned to Node84
+Branch parameter of Node84 set to :0.00065
+Model MG94model assigned to A_Brawley_40081_2009_04_22_2009
+Branch parameter of A_Brawley_40081_2009_04_22_2009 set to :0.00055
+Model MG94model assigned to A_California_12_2009_04_22_2009
+Branch parameter of A_California_12_2009_04_22_2009 set to :0.00054
+Model MG94model assigned to Node88
+Branch parameter of Node88 set to :0.00129
+Model MG94model assigned to A_San_Diego_WR1629P_2009_04_30_2009
+Branch parameter of A_San_Diego_WR1629P_2009_04_30_2009 set to :0.00065
+Model MG94model assigned to A_Washington_11_2009_04_26_2009
+Branch parameter of A_Washington_11_2009_04_26_2009 set to :1e-10
+Model MG94model assigned to A_Colorado_03_2009_04_27_2009
+Branch parameter of A_Colorado_03_2009_04_27_2009 set to :1e-10
+Model MG94model assigned to A_Idaho_02_2009_04_28_2009
+Branch parameter of A_Idaho_02_2009_04_28_2009 set to :1e-10
+Model MG94model assigned to A_Colorado_04_2009_04_26_2009
+Branch parameter of A_Colorado_04_2009_04_26_2009 set to :1e-10
+Model MG94model assigned to A_Wisconsin_09_2009_04_27_2009
+Branch parameter of A_Wisconsin_09_2009_04_27_2009 set to :1e-10
+Model MG94model assigned to Node96
+Branch parameter of Node96 set to :0.00065
+Model MG94model assigned to A_California_06_2009_04_16_2009
+Branch parameter of A_California_06_2009_04_16_2009 set to :0.0006400000000000001
+Model MG94model assigned to Node95
+Branch parameter of Node95 set to :0.00055
+Model MG94model assigned to A_Brawley_WR1635P_2009_04_28_2009
+Branch parameter of A_Brawley_WR1635P_2009_04_28_2009 set to :1e-10
+Model MG94model assigned to A_California_10_2009_04_08_2009
+Branch parameter of A_California_10_2009_04_08_2009 set to :1e-10
+Model MG94model assigned to A_California_11_2009_04_24_2009
+Branch parameter of A_California_11_2009_04_24_2009 set to :1e-10
+Model MG94model assigned to A_Brawley_40082_2009_04_21_2009
+Branch parameter of A_Brawley_40082_2009_04_21_2009 set to :1e-10
+Model MG94model assigned to A_Mexico_24044_2009_04_20_2009
+Branch parameter of A_Mexico_24044_2009_04_20_2009 set to :1e-10
+Model MG94model assigned to A_California_18_2009_04_30_2009
+Branch parameter of A_California_18_2009_04_30_2009 set to :1e-10
+Model MG94model assigned to A_Hawaii_09_2009_04_30_2009
+Branch parameter of A_Hawaii_09_2009_04_30_2009 set to :1e-10
+Model MG94model assigned to A_California_13_2009_04_21_2009
+Branch parameter of A_California_13_2009_04_21_2009 set to :1e-10
+Model MG94model assigned to Node104
+Branch parameter of Node104 set to :0.00055
+Model MG94model assigned to A_Arizona_06_2009_04_28_2009
+Branch parameter of A_Arizona_06_2009_04_28_2009 set to :0.00065
+Model MG94model assigned to A_San_Diego_WR1631P_2009_04_30_2009
+Branch parameter of A_San_Diego_WR1631P_2009_04_30_2009 set to :1e-10
+Model MG94model assigned to A_California_17_2009_04_25_2009
+Branch parameter of A_California_17_2009_04_25_2009 set to :1e-10
+Model MG94model assigned to Node115
+Branch parameter of Node115 set to :0.00065
+Model MG94model assigned to Node113
+Branch parameter of Node113 set to :0.00055
+Model MG94model assigned to Node103
+Branch parameter of Node103 set to :0.00055
+Model MG94model assigned to Node94
+Branch parameter of Node94 set to :0.00055
+Model MG94model assigned to Node92
+Branch parameter of Node92 set to :0.00055
+Model MG94model assigned to A_Cherry_Point_WR1355_2009_04_28_2009
+Branch parameter of A_Cherry_Point_WR1355_2009_04_28_2009 set to :0.00192
+Model MG94model assigned to A_Cherry_Point_WR0080_2009_04_30_2009
+Branch parameter of A_Cherry_Point_WR0080_2009_04_30_2009 set to :0.00065
+Model MG94model assigned to Node118
+Branch parameter of Node118 set to :0.00065
+Model MG94model assigned to Node91
+Branch parameter of Node91 set to :0.00055
+Model MG94model assigned to Node87
+Branch parameter of Node87 set to :0.00055
+Model MG94model assigned to Node83
+Branch parameter of Node83 set to :0.00055
+Model MG94model assigned to Node63
+Branch parameter of Node63 set to :0.00055
+Model MG94model assigned to Node61
+Branch parameter of Node61 set to :0.00055
+Model MG94model assigned to A_Mexico_InDRE13547_2009_04_27_2009
+Branch parameter of A_Mexico_InDRE13547_2009_04_27_2009 set to :0.00193
+Model MG94model assigned to A_Mexico_24052_2009_04_27_2009
+Branch parameter of A_Mexico_24052_2009_04_27_2009 set to :0.00065
+Model MG94model assigned to Node121
+Branch parameter of Node121 set to :0.00055
+Model MG94model assigned to Node60
+Branch parameter of Node60 set to :0.00055
+Model MG94model assigned to Node56
+Branch parameter of Node56 set to :0.00055
+Model MG94model assigned to Node52
+Branch parameter of Node52 set to :0.00055
+Model MG94model assigned to A_Alabama_02_2009_04_27_2009
+Branch parameter of A_Alabama_02_2009_04_27_2009 set to :0.00065
+Model MG94model assigned to A_Tennessee_05_2009_04_28_2009
+Branch parameter of A_Tennessee_05_2009_04_28_2009 set to :0.00065
+Model MG94model assigned to Node125
+Branch parameter of Node125 set to :0.00129
+Model MG94model assigned to A_Kentucky_05_2009_04_30_2009
+Branch parameter of A_Kentucky_05_2009_04_30_2009 set to :0.00065
+Model MG94model assigned to Node124
+Branch parameter of Node124 set to :0.00055
+Model MG94model assigned to Node51
+Branch parameter of Node51 set to :0.00055
+Model MG94model assigned to Node41
+Branch parameter of Node41 set to :0.00055
+Model MG94model assigned to Node6
+Branch parameter of Node6 set to :0.00055
+Model MG94model assigned to A_Mexico_4108_2009_04_03_2009
+Branch parameter of A_Mexico_4108_2009_04_03_2009 set to :0.00124
+Model MG94model assigned to A_Texas_11_2009_04_23_2009
+Branch parameter of A_Texas_11_2009_04_23_2009 set to :0.00065
+Model MG94model assigned to A_North_Carolina_05_2009_04_28_2009
+Branch parameter of A_North_Carolina_05_2009_04_28_2009 set to :0.00065
+Model MG94model assigned to A_Oklahoma_01_2009_04_28_2009
+Branch parameter of A_Oklahoma_01_2009_04_28_2009 set to :1e-10
+Model MG94model assigned to A_Texas_22_2009_04_26_2009
+Branch parameter of A_Texas_22_2009_04_26_2009 set to :1e-10
+Model MG94model assigned to A_Kansas_02_2009_04_24_2009
+Branch parameter of A_Kansas_02_2009_04_24_2009 set to :1e-10
+Model MG94model assigned to A_Texas_05_2009_04_15_2009
+Branch parameter of A_Texas_05_2009_04_15_2009 set to :1e-10
+Model MG94model assigned to A_Texas_09_2009_04_25_2009
+Branch parameter of A_Texas_09_2009_04_25_2009 set to :1e-10
+Model MG94model assigned to A_Texas_12_2009_04_24_2009
+Branch parameter of A_Texas_12_2009_04_24_2009 set to :1e-10
+Model MG94model assigned to A_Texas_04_2009_04_14_2009
+Branch parameter of A_Texas_04_2009_04_14_2009 set to :1e-10
+Model MG94model assigned to A_Texas_08_2009_04_24_2009
+Branch parameter of A_Texas_08_2009_04_24_2009 set to :1e-10
+Model MG94model assigned to A_Texas_06_2009_04_23_2009
+Branch parameter of A_Texas_06_2009_04_23_2009 set to :1e-10
+Model MG94model assigned to A_San_Antonio_PR921_2009_04_14_2009
+Branch parameter of A_San_Antonio_PR921_2009_04_14_2009 set to :1e-10
+Model MG94model assigned to Node138
+Branch parameter of Node138 set to :0.00055
+Model MG94model assigned to Node136
+Branch parameter of Node136 set to :0.00055
+Model MG94model assigned to Node134
+Branch parameter of Node134 set to :0.0006400000000000001
+Model MG94model assigned to A_Mexico_4627_2009_04_20_2009
+Branch parameter of A_Mexico_4627_2009_04_20_2009 set to :0.00065
+Model MG94model assigned to A_Delaware_07_2009_04_28_2009
+Branch parameter of A_Delaware_07_2009_04_28_2009 set to :0.00065
+Model MG94model assigned to A_District_of_Columbia_03_2009_04_27_2009
+Branch parameter of A_District_of_Columbia_03_2009_04_27_2009 set to :1e-10
+Model MG94model assigned to A_New_York_1682_2009_04_27_2009
+Branch parameter of A_New_York_1682_2009_04_27_2009 set to :1e-10
+Model MG94model assigned to A_District_of_Columbia_02_2009_04_29_2009
+Branch parameter of A_District_of_Columbia_02_2009_04_29_2009 set to :1e-10
+Model MG94model assigned to A_Delaware_03_2009_04_28_2009
+Branch parameter of A_Delaware_03_2009_04_28_2009 set to :1e-10
+Model MG94model assigned to A_Maryland_05_2009_04_29_2009
+Branch parameter of A_Maryland_05_2009_04_29_2009 set to :1e-10
+Model MG94model assigned to A_New_Hampshire_02_2009_04_28_2009
+Branch parameter of A_New_Hampshire_02_2009_04_28_2009 set to :1e-10
+Model MG94model assigned to A_New_York_3100_2009_04_30_2009
+Branch parameter of A_New_York_3100_2009_04_30_2009 set to :1e-10
+Model MG94model assigned to A_Delaware_04_2009_04_28_2009
+Branch parameter of A_Delaware_04_2009_04_28_2009 set to :1e-10
+Model MG94model assigned to A_Delaware_02_2009_04_28_2009
+Branch parameter of A_Delaware_02_2009_04_28_2009 set to :1e-10
+Model MG94model assigned to A_New_York_3183_2009_04_28_2009
+Branch parameter of A_New_York_3183_2009_04_28_2009 set to :1e-10
+Model MG94model assigned to Node154
+Branch parameter of Node154 set to :0.00055
+Model MG94model assigned to A_Delaware_06_2009_04_28_2009
+Branch parameter of A_Delaware_06_2009_04_28_2009 set to :0.00065
+Model MG94model assigned to A_New_York_3099_2009_04_29_2009
+Branch parameter of A_New_York_3099_2009_04_29_2009 set to :0.00065
+Model MG94model assigned to Node165
+Branch parameter of Node165 set to :0.00055
+Model MG94model assigned to Node153
+Branch parameter of Node153 set to :0.00055
+Model MG94model assigned to Node151
+Branch parameter of Node151 set to :0.00128
+Model MG94model assigned to Node149
+Branch parameter of Node149 set to :0.00055
+Model MG94model assigned to Node133
+Branch parameter of Node133 set to :0.00055
+Model MG94model assigned to Node131
+Branch parameter of Node131 set to :0.0006400000000000001
+Model MG94model assigned to A_Mexico_24051_2009_04_27_2009
+Branch parameter of A_Mexico_24051_2009_04_27_2009 set to :0.00188
+Model MG94model assigned to Node130
+Branch parameter of Node130 set to :0.00055
+Model MG94model assigned to A_Mexico_24045_2009_04_20_2009
+Branch parameter of A_Mexico_24045_2009_04_20_2009 set to :1e-10
+Model MG94model assigned to A_Mexico_24053_2009_04_27_2009
+Branch parameter of A_Mexico_24053_2009_04_27_2009 set to :1e-10
+Model MG94model assigned to A_Mexico_24022_2009_04_27_2009
+Branch parameter of A_Mexico_24022_2009_04_27_2009 set to :1e-10
+Model MG94model assigned to A_Mexico_24033_2009_04_14_2009
+Branch parameter of A_Mexico_24033_2009_04_14_2009 set to :1e-10
+Model MG94model assigned to A_Illinois_01_2009_04_24_2009
+Branch parameter of A_Illinois_01_2009_04_24_2009 set to :1e-10
+Model MG94model assigned to A_Mexico_24056_2009_04_28_2009
+Branch parameter of A_Mexico_24056_2009_04_28_2009 set to :1e-10
+Model MG94model assigned to A_Michigan_30_2009_04_10_2009
+Branch parameter of A_Michigan_30_2009_04_10_2009 set to :1e-10
+Model MG94model assigned to A_Mexico_4176_2009_04_13_2009
+Branch parameter of A_Mexico_4176_2009_04_13_2009 set to :1e-10
+Model MG94model assigned to A_Nevada_04_2009_04_29_2009
+Branch parameter of A_Nevada_04_2009_04_29_2009 set to :1e-10
+Model MG94model assigned to A_New_York_3178_2009_04_28_2009
+Branch parameter of A_New_York_3178_2009_04_28_2009 set to :1e-10
+Model MG94model assigned to A_Washington_08_2009_04_27_2009
+Branch parameter of A_Washington_08_2009_04_27_2009 set to :1e-10
+Model MG94model assigned to A_Arizona_01_2009_04_22_2009
+Branch parameter of A_Arizona_01_2009_04_22_2009 set to :1e-10
+Model MG94model assigned to A_Mexico_4646_2009_04_20_2009
+Branch parameter of A_Mexico_4646_2009_04_20_2009 set to :1e-10
+Model MG94model assigned to A_Toronto_3141_2009_04_24_2009
+Branch parameter of A_Toronto_3141_2009_04_24_2009 set to :1e-10
+Model MG94model assigned to A_Mexico_24030_2009_04_29_2009
+Branch parameter of A_Mexico_24030_2009_04_29_2009 set to :1e-10
+Model MG94model assigned to A_North_Carolina_06_2009_04_28_2009
+Branch parameter of A_North_Carolina_06_2009_04_28_2009 set to :1e-10
+Model MG94model assigned to A_New_York_3074_2009_04_29_2009
+Branch parameter of A_New_York_3074_2009_04_29_2009 set to :1e-10
+Model MG94model assigned to A_Mexico_4593_2009_04_20_2009
+Branch parameter of A_Mexico_4593_2009_04_20_2009 set to :1e-10
+Model MG94model assigned to A_Washington_07_2009_04_28_2009
+Branch parameter of A_Washington_07_2009_04_28_2009 set to :1e-10
+Model MG94model assigned to A_Mexico_InDRE13495_2009_04_29_2009
+Branch parameter of A_Mexico_InDRE13495_2009_04_29_2009 set to :1e-10
+Model MG94model assigned to A_New_Mexico_04_2009_04_26_2009
+Branch parameter of A_New_Mexico_04_2009_04_26_2009 set to :1e-10
+Model MG94model assigned to A_Washington_09_2009_04_28_2009
+Branch parameter of A_Washington_09_2009_04_28_2009 set to :1e-10
+Model MG94model assigned to A_Mexico_24007_2009_04_23_2009
+Branch parameter of A_Mexico_24007_2009_04_23_2009 set to :1e-10
+Model MG94model assigned to A_Washington_18_2009_04_30_2009
+Branch parameter of A_Washington_18_2009_04_30_2009 set to :1e-10
+Model MG94model assigned to A_Oregon_07_2009_04_29_2009
+Branch parameter of A_Oregon_07_2009_04_29_2009 set to :1e-10
+Model MG94model assigned to A_Oregon_06_2009_04_28_2009
+Branch parameter of A_Oregon_06_2009_04_28_2009 set to :1e-10
+Model MG94model assigned to A_New_York_1669_2009_04_26_2009
+Branch parameter of A_New_York_1669_2009_04_26_2009 set to :1e-10
+Model MG94model assigned to A_Mexico_24032_2009_04_17_2009
+Branch parameter of A_Mexico_24032_2009_04_17_2009 set to :1e-10
+Model MG94model assigned to A_Ohio_10_2009_04_30_2009
+Branch parameter of A_Ohio_10_2009_04_30_2009 set to :1e-10
+Model MG94model assigned to A_Mexico_4115_2009_04_07_2009
+Branch parameter of A_Mexico_4115_2009_04_07_2009 set to :1e-10
+Model MG94model assigned to A_Oklahoma_02_2009_04_29_2009
+Branch parameter of A_Oklahoma_02_2009_04_29_2009 set to :1e-10
+Model MG94model assigned to A_Arizona_03_2009_04_26_2009
+Branch parameter of A_Arizona_03_2009_04_26_2009 set to :1e-10
+Model MG94model assigned to Node169
+Branch parameter of Node169 set to :0.00055
+Model MG94model assigned to Node129
+Branch parameter of Node129 set to :0.00055
+Model MG94model assigned to Node5
+Branch parameter of Node5 set to :0.00055
+Model MG94model assigned to A_Florida_04_2009_04_27_2009
+Branch parameter of A_Florida_04_2009_04_27_2009 set to :0.00065
+Model MG94model assigned to A_Kansas_03_2009_04_24_2009
+Branch parameter of A_Kansas_03_2009_04_24_2009 set to :0.00065
+Model MG94model assigned to Node204
+Branch parameter of Node204 set to :0.0006400000000000001
+Model MG94model assigned to A_Washington_12_2009_04_27_2009
+Branch parameter of A_Washington_12_2009_04_27_2009 set to :0.00065
+Model MG94model assigned to Node203
+Branch parameter of Node203 set to :0.00055
+Model MG94model assigned to A_Canada_NS_RV1554_2009_04_29_2009
+Branch parameter of A_Canada_NS_RV1554_2009_04_29_2009 set to :1e-10
+Model MG94model assigned to A_Canada_NS_RV1551_2009_04_29_2009
+Branch parameter of A_Canada_NS_RV1551_2009_04_29_2009 set to :1e-10
+Model MG94model assigned to A_Canada_NS_RV1565_2009_04_30_2009
+Branch parameter of A_Canada_NS_RV1565_2009_04_30_2009 set to :1e-10
+Model MG94model assigned to A_Canada_NS_RV1535_2009_04_24_2009
+Branch parameter of A_Canada_NS_RV1535_2009_04_24_2009 set to :1e-10
+Model MG94model assigned to Node209
+Branch parameter of Node209 set to :0.00128
+Model MG94model assigned to A_Oregon_05_2009_04_29_2009
+Branch parameter of A_Oregon_05_2009_04_29_2009 set to :0.00065
+Model MG94model assigned to Node208
+Branch parameter of Node208 set to :0.00055
+Model MG94model assigned to Node202
+Branch parameter of Node202 set to :0.00055
+Model MG94model assigned to Node4
+Branch parameter of Node4 set to :0.00055
+Model MG94model assigned to A_Texas_37_2009_04_26_2009
+Branch parameter of A_Texas_37_2009_04_26_2009 set to :0.00055
+Model MG94model assigned to A_Texas_17_2009_04_24_2009
+Branch parameter of A_Texas_17_2009_04_24_2009 set to :0.00055
+Model MG94model assigned to Node216
+Branch parameter of Node216 set to :0.00194
+Model MG94model assigned to A_Mexico_InDRE4487_2009_04_14_2009
+Branch parameter of A_Mexico_InDRE4487_2009_04_14_2009 set to :0.00055
+Model MG94model assigned to A_Mexico_4603_2009_04_19_2009
+Branch parameter of A_Mexico_4603_2009_04_19_2009 set to :0.0006400000000000001
+Model MG94model assigned to Node219
+Branch parameter of Node219 set to :0.00055
+Model MG94model assigned to Node215
+Branch parameter of Node215 set to :0.00055
+Model MG94model assigned to Node3
+Branch parameter of Node3 set to :0.00055
+Model MG94model assigned to A_Wisconsin_629_D00015_2009_04_30_2009
+Branch parameter of A_Wisconsin_629_D00015_2009_04_30_2009 set to :0.00055
+Model MG94model assigned to A_Mexico_24061_2009_04_28_2009
+Branch parameter of A_Mexico_24061_2009_04_28_2009 set to :0.00096
+Model MG94model assigned to Node222
+Branch parameter of Node222 set to :0.00065
+Model MG94model assigned to Node2
+Branch parameter of Node2 set to :0.00055
+Model MG94model assigned to A_Mexico_24055_2009_04_28_2009
+Branch parameter of A_Mexico_24055_2009_04_28_2009 set to :0.00053
+Model MG94model assigned to A_California_07_JRO09_2009_04_09_2009
+Branch parameter of A_California_07_JRO09_2009_04_09_2009 set to :0.0006400000000000001
+Model MG94model assigned to A_California_07_JRO10_2009_04_09_2009
+Branch parameter of A_California_07_JRO10_2009_04_09_2009 set to :0.00065
+Model MG94model assigned to A_California_07_2009_04_09_2009
+Branch parameter of A_California_07_2009_04_09_2009 set to :0.0006400000000000001
+Model MG94model assigned to A_California_04_2009_04_01_2009
+Branch parameter of A_California_04_2009_04_01_2009 set to :1e-10
+Model MG94model assigned to A_Pennsylvania_09_2009_04_30_2009
+Branch parameter of A_Pennsylvania_09_2009_04_30_2009 set to :1e-10
+Model MG94model assigned to Node234
+Branch parameter of Node234 set to :0.00065
+Model MG94model assigned to Node232
+Branch parameter of Node232 set to :0.00055
+Model MG94model assigned to A_California_07_JRO08_2009_04_09_2009
+Branch parameter of A_California_07_JRO08_2009_04_09_2009 set to :1e-10
+Model MG94model assigned to A_California_07_JRO03_2009_04_09_2009
+Branch parameter of A_California_07_JRO03_2009_04_09_2009 set to :1e-10
+Model MG94model assigned to A_California_08_2009_04_09_2009
+Branch parameter of A_California_08_2009_04_09_2009 set to :1e-10
+Model MG94model assigned to A_California_07_JRO02_2009_04_09_2009
+Branch parameter of A_California_07_JRO02_2009_04_09_2009 set to :1e-10
+Model MG94model assigned to Node237
+Branch parameter of Node237 set to :0.00055
+Model MG94model assigned to Node231
+Branch parameter of Node231 set to :0.00055
+Model MG94model assigned to Node229
+Branch parameter of Node229 set to :0.00055
+Model MG94model assigned to Node227
+Branch parameter of Node227 set to :0.00185
+Model MG94model assigned to Node225
+Branch parameter of Node225 set to :0.0006400000000000001
+Model MG94model assigned to Node1
+Branch parameter of Node1 set to :0.00055
+Model MG94model assigned to A_Mexico_City_024_2009_04_30_2009
+Branch parameter of A_Mexico_City_024_2009_04_30_2009 set to :0.00065
+Model MG94model assigned to A_Mexico_4486_2009_04_14_2009
+Branch parameter of A_Mexico_4486_2009_04_14_2009 set to :0.00065
+Model MG94model assigned to Node247
+Branch parameter of Node247 set to :0.00065
+Model MG94model assigned to A_Alaska_04_2009_05_2009
+Branch parameter of A_Alaska_04_2009_05_2009 set to :0.00193
+Model MG94model assigned to A_Mexico_City_020_2009_04_30_2009
+Branch parameter of A_Mexico_City_020_2009_04_30_2009 set to :0.0006400000000000001
+Model MG94model assigned to Node250
+Branch parameter of Node250 set to :0.00055
+Model MG94model assigned to Node246
+Branch parameter of Node246 set to :0.00055
+Model MG94model assigned to A_Wisconsin_629_D02361_2009_04_30_2009
+Branch parameter of A_Wisconsin_629_D02361_2009_04_30_2009 set to :0.0006400000000000001
+Model MG94model assigned to A_Wisconsin_629_D00750_2009_04_30_2009
+Branch parameter of A_Wisconsin_629_D00750_2009_04_30_2009 set to :0.00065
+Model MG94model assigned to A_Iowa_04_2009_04_24_2009
+Branch parameter of A_Iowa_04_2009_04_24_2009 set to :0.00128
+Model MG94model assigned to Node257
+Branch parameter of Node257 set to :0.00055
+Model MG94model assigned to Node255
+Branch parameter of Node255 set to :0.00055
+Model MG94model assigned to A_Texas_23_2009_04_27_2009
+Branch parameter of A_Texas_23_2009_04_27_2009 set to :0.00065
+Model MG94model assigned to Node254
+Branch parameter of Node254 set to :0.00055
+Model MG94model assigned to A_Florida_11_2009_04_30_2009
+Branch parameter of A_Florida_11_2009_04_30_2009 set to :0.00065
+Model MG94model assigned to Node253
+Branch parameter of Node253 set to :0.00055
+Model MG94model assigned to Node245
+Branch parameter of Node245 set to :0.00055
+Model MG94model assigned to A_Wisconsin_629_D01773_2009_04_30_2009
+Branch parameter of A_Wisconsin_629_D01773_2009_04_30_2009 set to :0.00065
+Model MG94model assigned to A_Mexico_4502_2009_04_17_2009
+Branch parameter of A_Mexico_4502_2009_04_17_2009 set to :0.00065
+Model MG94model assigned to Node262
+Branch parameter of Node262 set to :0.00055
+Model MG94model assigned to Node244
+Branch parameter of Node244 set to :0.00055
+Model MG94model assigned to A_Oregon_04_2009_04_27_2009
+Branch parameter of A_Oregon_04_2009_04_27_2009 set to :0.0006400000000000001
+Model MG94model assigned to A_Mexico_4635_2009_04_20_2009
+Branch parameter of A_Mexico_4635_2009_04_20_2009 set to :0.00065
+Model MG94model assigned to Node266
+Branch parameter of Node266 set to :0.00055
+Model MG94model assigned to A_Wisconsin_629_D02141_2009_04_30_2009
+Branch parameter of A_Wisconsin_629_D02141_2009_04_30_2009 set to :1e-10
+Model MG94model assigned to A_Michigan_02_2009_04_26_2009
+Branch parameter of A_Michigan_02_2009_04_26_2009 set to :1e-10
+Model MG94model assigned to A_Texas_19_2009_04_26_2009
+Branch parameter of A_Texas_19_2009_04_26_2009 set to :1e-10
+Model MG94model assigned to A_Mexico_InDRE13551_2009_04_28_2009
+Branch parameter of A_Mexico_InDRE13551_2009_04_28_2009 set to :1e-10
+Model MG94model assigned to A_Mexico_City_019_2009_04_30_2009
+Branch parameter of A_Mexico_City_019_2009_04_30_2009 set to :1e-10
+Model MG94model assigned to A_Mexico_4283_2009_04_15_2009
+Branch parameter of A_Mexico_4283_2009_04_15_2009 set to :1e-10
+Model MG94model assigned to A_Mexico_4595_2009_04_20_2009
+Branch parameter of A_Mexico_4595_2009_04_20_2009 set to :1e-10
+Model MG94model assigned to A_Wisconsin_08_2009_04_27_2009
+Branch parameter of A_Wisconsin_08_2009_04_27_2009 set to :1e-10
+Model MG94model assigned to A_Wisconsin_629_D01505_2009_04_28_2009
+Branch parameter of A_Wisconsin_629_D01505_2009_04_28_2009 set to :1e-10
+Model MG94model assigned to A_Mexico_4604_2009_04_19_2009
+Branch parameter of A_Mexico_4604_2009_04_19_2009 set to :1e-10
+Model MG94model assigned to A_Mexico_4482_2009_04_14_2009
+Branch parameter of A_Mexico_4482_2009_04_14_2009 set to :1e-10
+Model MG94model assigned to A_Wisconsin_629_D00447_2009_04_30_2009
+Branch parameter of A_Wisconsin_629_D00447_2009_04_30_2009 set to :1e-10
+Model MG94model assigned to A_Wisconsin_629_D00767_2009_04_30_2009
+Branch parameter of A_Wisconsin_629_D00767_2009_04_30_2009 set to :1e-10
+Model MG94model assigned to A_Mexico_4575_2009_04_20_2009
+Branch parameter of A_Mexico_4575_2009_04_20_2009 set to :1e-10
+Model MG94model assigned to A_Wisconsin_07_2009_04_27_2009
+Branch parameter of A_Wisconsin_07_2009_04_27_2009 set to :1e-10
+Model MG94model assigned to A_Wisconsin_629_D01486_2009_04_29_2009
+Branch parameter of A_Wisconsin_629_D01486_2009_04_29_2009 set to :1e-10
+Model MG94model assigned to A_Mexico_24024_2009_04_27_2009
+Branch parameter of A_Mexico_24024_2009_04_27_2009 set to :1e-10
+Model MG94model assigned to A_Mexico_InDRE13555_2009_04_29_2009
+Branch parameter of A_Mexico_InDRE13555_2009_04_29_2009 set to :1e-10
+Model MG94model assigned to A_Wisconsin_629_D01529_2009_04_30_2009
+Branch parameter of A_Wisconsin_629_D01529_2009_04_30_2009 set to :1e-10
+Model MG94model assigned to A_Wisconsin_629_D01558_2009_04_30_2009
+Branch parameter of A_Wisconsin_629_D01558_2009_04_30_2009 set to :1e-10
+Model MG94model assigned to Node269
+Branch parameter of Node269 set to :0.00055
+Model MG94model assigned to Node265
+Branch parameter of Node265 set to :0.00055
+Model MG94model assigned to Node243
+Branch parameter of Node243 set to :0.00055
+Model MG94model assigned to A_Canada_AB_RV1531_2009_04_28_2009
+Branch parameter of A_Canada_AB_RV1531_2009_04_28_2009 set to :0.00053
+Model MG94model assigned to A_New_York_3232_2009_04_30_2009
+Branch parameter of A_New_York_3232_2009_04_30_2009 set to :0.00055
+Model MG94model assigned to A_New_York_3348_2009_04_28_2009
+Branch parameter of A_New_York_3348_2009_04_28_2009 set to :1e-10
+Model MG94model assigned to A_Rhode_Island_03_2009_04_30_2009
+Branch parameter of A_Rhode_Island_03_2009_04_30_2009 set to :1e-10
+Model MG94model assigned to Node297
+Branch parameter of Node297 set to :0.00055
+Model MG94model assigned to A_Rhode_Island_02_2009_04_28_2009
+Branch parameter of A_Rhode_Island_02_2009_04_28_2009 set to :0.00065
+Model MG94model assigned to Node296
+Branch parameter of Node296 set to :0.00129
+Model MG94model assigned to Node294
+Branch parameter of Node294 set to :0.00065
+Model MG94model assigned to A_New_York_23_2009_04_24_2009
+Branch parameter of A_New_York_23_2009_04_24_2009 set to :0.00065
+Model MG94model assigned to A_New_York_34_2009_04_25_2009
+Branch parameter of A_New_York_34_2009_04_25_2009 set to :0.00065
+Model MG94model assigned to Node303
+Branch parameter of Node303 set to :0.00055
+Model MG94model assigned to A_New_York_3189_2009_04_29_2009
+Branch parameter of A_New_York_3189_2009_04_29_2009 set to :0.00055
+Model MG94model assigned to A_New_York_3198_2009_04_29_2009
+Branch parameter of A_New_York_3198_2009_04_29_2009 set to :0.00065
+Model MG94model assigned to Node309
+Branch parameter of Node309 set to :0.0006400000000000001
+Model MG94model assigned to A_New_York_3007_2009_04_27_2009
+Branch parameter of A_New_York_3007_2009_04_27_2009 set to :1e-10
+Model MG94model assigned to A_Ohio_08_2009_04_27_2009
+Branch parameter of A_Ohio_08_2009_04_27_2009 set to :1e-10
+Model MG94model assigned to A_Ohio_07_2009_04_24_2009
+Branch parameter of A_Ohio_07_2009_04_24_2009 set to :1e-10
+Model MG94model assigned to Node313
+Branch parameter of Node313 set to :0.00055
+Model MG94model assigned to A_Georgia_01_2009_04_27_2009
+Branch parameter of A_Georgia_01_2009_04_27_2009 set to :0.0006400000000000001
+Model MG94model assigned to Node312
+Branch parameter of Node312 set to :0.0006400000000000001
+Model MG94model assigned to Node308
+Branch parameter of Node308 set to :0.00055
+Model MG94model assigned to A_New_York_3012_2009_04_27_2009
+Branch parameter of A_New_York_3012_2009_04_27_2009 set to :0.00065
+Model MG94model assigned to Node307
+Branch parameter of Node307 set to :0.00055
+Model MG94model assigned to A_New_York_3205_2009_04_26_2009
+Branch parameter of A_New_York_3205_2009_04_26_2009 set to :0.00129
+Model MG94model assigned to A_New_York_3217_2009_04_25_2009
+Branch parameter of A_New_York_3217_2009_04_25_2009 set to :0.0006400000000000001
+Model MG94model assigned to Node320
+Branch parameter of Node320 set to :0.00055
+Model MG94model assigned to A_New_York_3195_2009_04_28_2009
+Branch parameter of A_New_York_3195_2009_04_28_2009 set to :1e-10
+Model MG94model assigned to A_New_York_3199_2009_04_28_2009
+Branch parameter of A_New_York_3199_2009_04_28_2009 set to :1e-10
+Model MG94model assigned to Node323
+Branch parameter of Node323 set to :0.0006400000000000001
+Model MG94model assigned to Node319
+Branch parameter of Node319 set to :0.00055
+Model MG94model assigned to Node306
+Branch parameter of Node306 set to :0.00055
+Model MG94model assigned to Node302
+Branch parameter of Node302 set to :0.00055
+Model MG94model assigned to A_New_York_3196_2009_04_28_2009
+Branch parameter of A_New_York_3196_2009_04_28_2009 set to :1e-10
+Model MG94model assigned to A_New_York_3209_2009_04_25_2009
+Branch parameter of A_New_York_3209_2009_04_25_2009 set to :1e-10
+Model MG94model assigned to A_New_York_3124_2009_04_28_2009
+Branch parameter of A_New_York_3124_2009_04_28_2009 set to :1e-10
+Model MG94model assigned to A_New_York_3247_2009_04_29_2009
+Branch parameter of A_New_York_3247_2009_04_29_2009 set to :1e-10
+Model MG94model assigned to A_New_York_31_2009_04_24_2009
+Branch parameter of A_New_York_31_2009_04_24_2009 set to :1e-10
+Model MG94model assigned to A_Canada_ON_RV1589_2009_04_27_2009
+Branch parameter of A_Canada_ON_RV1589_2009_04_27_2009 set to :1e-10
+Model MG94model assigned to A_New_York_3236_2009_04_28_2009
+Branch parameter of A_New_York_3236_2009_04_28_2009 set to :1e-10
+Model MG94model assigned to A_New_York_3206_2009_04_26_2009
+Branch parameter of A_New_York_3206_2009_04_26_2009 set to :1e-10
+Model MG94model assigned to A_New_York_06_2009_04_25_2009
+Branch parameter of A_New_York_06_2009_04_25_2009 set to :1e-10
+Model MG94model assigned to A_New_York_3203_2009_04_27_2009
+Branch parameter of A_New_York_3203_2009_04_27_2009 set to :1e-10
+Model MG94model assigned to A_New_York_3238_2009_04_28_2009
+Branch parameter of A_New_York_3238_2009_04_28_2009 set to :1e-10
+Model MG94model assigned to A_New_York_3204_2009_04_27_2009
+Branch parameter of A_New_York_3204_2009_04_27_2009 set to :1e-10
+Model MG94model assigned to A_New_York_3210_2009_04_24_2009
+Branch parameter of A_New_York_3210_2009_04_24_2009 set to :1e-10
+Model MG94model assigned to A_New_York_3008_2009_04_27_2009
+Branch parameter of A_New_York_3008_2009_04_27_2009 set to :1e-10
+Model MG94model assigned to A_New_York_15_2009_04_25_2009
+Branch parameter of A_New_York_15_2009_04_25_2009 set to :1e-10
+Model MG94model assigned to A_New_York_18_2009_04_25_2009
+Branch parameter of A_New_York_18_2009_04_25_2009 set to :1e-10
+Model MG94model assigned to A_New_York_39_2009_04_25_2009
+Branch parameter of A_New_York_39_2009_04_25_2009 set to :1e-10
+Model MG94model assigned to A_New_York_3227_2009_04_28_2009
+Branch parameter of A_New_York_3227_2009_04_28_2009 set to :1e-10
+Model MG94model assigned to A_New_York_3169_2009_04_26_2009
+Branch parameter of A_New_York_3169_2009_04_26_2009 set to :1e-10
+Model MG94model assigned to A_New_York_3188_2009_04_28_2009
+Branch parameter of A_New_York_3188_2009_04_28_2009 set to :1e-10
+Model MG94model assigned to A_New_York_3261_2009_04_29_2009
+Branch parameter of A_New_York_3261_2009_04_29_2009 set to :1e-10
+Model MG94model assigned to A_New_York_3049_2009_04_27_2009
+Branch parameter of A_New_York_3049_2009_04_27_2009 set to :1e-10
+Model MG94model assigned to A_New_York_3235_2009_04_28_2009
+Branch parameter of A_New_York_3235_2009_04_28_2009 set to :1e-10
+Model MG94model assigned to A_Canada_ON_RV1527_2009_04_24_2009
+Branch parameter of A_Canada_ON_RV1527_2009_04_24_2009 set to :1e-10
+Model MG94model assigned to A_New_York_3176_2009_04_26_2009
+Branch parameter of A_New_York_3176_2009_04_26_2009 set to :1e-10
+Model MG94model assigned to A_New_York_24_2009_04_24_2009
+Branch parameter of A_New_York_24_2009_04_24_2009 set to :1e-10
+Model MG94model assigned to A_New_York_21_2009_04_24_2009
+Branch parameter of A_New_York_21_2009_04_24_2009 set to :1e-10
+Model MG94model assigned to A_New_York_3234_2009_04_28_2009
+Branch parameter of A_New_York_3234_2009_04_28_2009 set to :1e-10
+Model MG94model assigned to A_New_York_20_2009_04_25_2009
+Branch parameter of A_New_York_20_2009_04_25_2009 set to :1e-10
+Model MG94model assigned to A_New_York_3365_2009_04_30_2009
+Branch parameter of A_New_York_3365_2009_04_30_2009 set to :1e-10
+Model MG94model assigned to A_New_York_3185_2009_04_29_2009
+Branch parameter of A_New_York_3185_2009_04_29_2009 set to :1e-10
+Model MG94model assigned to A_New_York_26_2009_04_24_2009
+Branch parameter of A_New_York_26_2009_04_24_2009 set to :1e-10
+Model MG94model assigned to A_Nebraska_03_2009_04_27_2009
+Branch parameter of A_Nebraska_03_2009_04_27_2009 set to :1e-10
+Model MG94model assigned to A_New_York_3186_2009_04_26_2009
+Branch parameter of A_New_York_3186_2009_04_26_2009 set to :1e-10
+Model MG94model assigned to A_New_York_22_2009_04_24_2009
+Branch parameter of A_New_York_22_2009_04_24_2009 set to :1e-10
+Model MG94model assigned to A_New_York_3264_2009_04_29_2009
+Branch parameter of A_New_York_3264_2009_04_29_2009 set to :1e-10
+Model MG94model assigned to A_New_York_3014_2009_04_27_2009
+Branch parameter of A_New_York_3014_2009_04_27_2009 set to :1e-10
+Model MG94model assigned to A_Virginia_04_2009_04_27_2009
+Branch parameter of A_Virginia_04_2009_04_27_2009 set to :1e-10
+Model MG94model assigned to A_New_York_3225_2009_04_27_2009
+Branch parameter of A_New_York_3225_2009_04_27_2009 set to :1e-10
+Model MG94model assigned to A_New_York_3002_2009_04_25_2009
+Branch parameter of A_New_York_3002_2009_04_25_2009 set to :1e-10
+Model MG94model assigned to A_Massachusetts_06_2009_04_26_2009
+Branch parameter of A_Massachusetts_06_2009_04_26_2009 set to :1e-10
+Model MG94model assigned to A_Massachusetts_07_2009_04_25_2009
+Branch parameter of A_Massachusetts_07_2009_04_25_2009 set to :1e-10
+Model MG94model assigned to A_New_York_3230_2009_04_28_2009
+Branch parameter of A_New_York_3230_2009_04_28_2009 set to :1e-10
+Model MG94model assigned to A_California_14_2009_04_25_2009
+Branch parameter of A_California_14_2009_04_25_2009 set to :1e-10
+Model MG94model assigned to A_District_of_Columbia_01_2009_04_27_2009
+Branch parameter of A_District_of_Columbia_01_2009_04_27_2009 set to :1e-10
+Model MG94model assigned to A_New_York_3166_2009_04_26_2009
+Branch parameter of A_New_York_3166_2009_04_26_2009 set to :1e-10
+Model MG94model assigned to A_New_York_3173_2009_04_28_2009
+Branch parameter of A_New_York_3173_2009_04_28_2009 set to :1e-10
+Model MG94model assigned to A_New_York_13_2009_04_25_2009
+Branch parameter of A_New_York_13_2009_04_25_2009 set to :1e-10
+Model MG94model assigned to A_New_York_3191_2009_04_25_2009
+Branch parameter of A_New_York_3191_2009_04_25_2009 set to :1e-10
+Model MG94model assigned to A_New_York_3167_2009_04_28_2009
+Branch parameter of A_New_York_3167_2009_04_28_2009 set to :1e-10
+Model MG94model assigned to A_Utah_02_2009_04_28_2009
+Branch parameter of A_Utah_02_2009_04_28_2009 set to :1e-10
+Model MG94model assigned to A_New_York_3237_2009_04_28_2009
+Branch parameter of A_New_York_3237_2009_04_28_2009 set to :1e-10
+Model MG94model assigned to A_New_York_3172_2009_04_27_2009
+Branch parameter of A_New_York_3172_2009_04_27_2009 set to :1e-10
+Model MG94model assigned to A_New_York_3184_2009_04_28_2009
+Branch parameter of A_New_York_3184_2009_04_28_2009 set to :1e-10
+Model MG94model assigned to A_New_York_3193_2009_04_28_2009
+Branch parameter of A_New_York_3193_2009_04_28_2009 set to :1e-10
+Model MG94model assigned to A_New_York_3190_2009_04_29_2009
+Branch parameter of A_New_York_3190_2009_04_29_2009 set to :1e-10
+Model MG94model assigned to A_Nevada_03_2009_04_26_2009
+Branch parameter of A_Nevada_03_2009_04_26_2009 set to :1e-10
+Model MG94model assigned to A_New_York_3168_2009_04_26_2009
+Branch parameter of A_New_York_3168_2009_04_26_2009 set to :1e-10
+Model MG94model assigned to A_New_York_3215_2009_04_25_2009
+Branch parameter of A_New_York_3215_2009_04_25_2009 set to :1e-10
+Model MG94model assigned to A_New_York_11_2009_04_25_2009
+Branch parameter of A_New_York_11_2009_04_25_2009 set to :1e-10
+Model MG94model assigned to A_New_York_10_2009_04_25_2009
+Branch parameter of A_New_York_10_2009_04_25_2009 set to :1e-10
+Model MG94model assigned to A_New_York_3194_2009_04_30_2009
+Branch parameter of A_New_York_3194_2009_04_30_2009 set to :1e-10
+Model MG94model assigned to A_New_York_19_2009_04_25_2009
+Branch parameter of A_New_York_19_2009_04_25_2009 set to :1e-10
+Model MG94model assigned to A_New_York_3207_2009_04_26_2009
+Branch parameter of A_New_York_3207_2009_04_26_2009 set to :1e-10
+Model MG94model assigned to A_New_York_3260_2009_04_27_2009
+Branch parameter of A_New_York_3260_2009_04_27_2009 set to :1e-10
+Model MG94model assigned to A_New_York_3211_2009_04_28_2009
+Branch parameter of A_New_York_3211_2009_04_28_2009 set to :1e-10
+Model MG94model assigned to A_New_York_35_2009_04_25_2009
+Branch parameter of A_New_York_35_2009_04_25_2009 set to :1e-10
+Model MG94model assigned to A_New_York_3265_2009_04_29_2009
+Branch parameter of A_New_York_3265_2009_04_29_2009 set to :1e-10
+Model MG94model assigned to A_New_York_16_2009_04_24_2009
+Branch parameter of A_New_York_16_2009_04_24_2009 set to :1e-10
+Model MG94model assigned to A_New_York_09_2009_04_25_2009
+Branch parameter of A_New_York_09_2009_04_25_2009 set to :1e-10
+Model MG94model assigned to Node326
+Branch parameter of Node326 set to :0.00055
+Model MG94model assigned to Node301
+Branch parameter of Node301 set to :0.00055
+Model MG94model assigned to Node293
+Branch parameter of Node293 set to :0.00055
+Model MG94model assigned to Node291
+Branch parameter of Node291 set to :0.00065
+Model MG94model assigned to A_Wisconsin_629_D01642_2009_04_29_2009
+Branch parameter of A_Wisconsin_629_D01642_2009_04_29_2009 set to :0.00055
+Model MG94model assigned to Node290
+Branch parameter of Node290 set to :0.00055
+Model MG94model assigned to Node242
+Branch parameter of Node242 set to :0.00055
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+
+ReplicateConstraint generated the following contsraints:
+givenTree.A_Mexico_24038_2009_04_28_2009.synRate:=treeScaler*givenTree.A_Mexico_24038_2009_04_28_2009.synRate__;
+givenTree.A_Mexico_24015_2009_04_25_2009.synRate:=treeScaler*givenTree.A_Mexico_24015_2009_04_25_2009.synRate__;
+givenTree.A_Mexico_24048_2009_04_27_2009.synRate:=treeScaler*givenTree.A_Mexico_24048_2009_04_27_2009.synRate__;
+givenTree.Node10.synRate:=treeScaler*givenTree.Node10.synRate__;
+givenTree.Node8.synRate:=treeScaler*givenTree.Node8.synRate__;
+givenTree.A_Mexico_47N_2009_04_25_2009.synRate:=treeScaler*givenTree.A_Mexico_47N_2009_04_25_2009.synRate__;
+givenTree.A_Mexico_48N_2009_04_25_2009.synRate:=treeScaler*givenTree.A_Mexico_48N_2009_04_25_2009.synRate__;
+givenTree.Node16.synRate:=treeScaler*givenTree.Node16.synRate__;
+givenTree.A_South_Dakota_05_2009_04_30_2009.synRate:=treeScaler*givenTree.A_South_Dakota_05_2009_04_30_2009.synRate__;
+givenTree.A_South_Carolina_09_2009_04_26_2009.synRate:=treeScaler*givenTree.A_South_Carolina_09_2009_04_26_2009.synRate__;
+givenTree.Node20.synRate:=treeScaler*givenTree.Node20.synRate__;
+givenTree.A_Indiana_12_2009_04_29_2009.synRate:=treeScaler*givenTree.A_Indiana_12_2009_04_29_2009.synRate__;
+givenTree.A_Canada_QC_RV1595_2009_04_16_2009.synRate:=treeScaler*givenTree.A_Canada_QC_RV1595_2009_04_16_2009.synRate__;
+givenTree.A_Louisiana_04_2009_04_30_2009.synRate:=treeScaler*givenTree.A_Louisiana_04_2009_04_30_2009.synRate__;
+givenTree.A_Canada_PQ_RV1586_2009_04_26_2009.synRate:=treeScaler*givenTree.A_Canada_PQ_RV1586_2009_04_26_2009.synRate__;
+givenTree.A_Louisiana_02_2009_04_29_2009.synRate:=treeScaler*givenTree.A_Louisiana_02_2009_04_29_2009.synRate__;
+givenTree.A_Mexico_24036_2009_04_27_2009.synRate:=treeScaler*givenTree.A_Mexico_24036_2009_04_27_2009.synRate__;
+givenTree.A_New_York_3181_2009_04_28_2009.synRate:=treeScaler*givenTree.A_New_York_3181_2009_04_28_2009.synRate__;
+givenTree.A_Pennsylvania_10_2009_04_28_2009.synRate:=treeScaler*givenTree.A_Pennsylvania_10_2009_04_28_2009.synRate__;
+givenTree.A_Montreal_01_2009_04_26_2009.synRate:=treeScaler*givenTree.A_Montreal_01_2009_04_26_2009.synRate__;
+givenTree.Node23.synRate:=treeScaler*givenTree.Node23.synRate__;
+givenTree.Node19.synRate:=treeScaler*givenTree.Node19.synRate__;
+givenTree.Node15.synRate:=treeScaler*givenTree.Node15.synRate__;
+givenTree.A_Mexico_4269_2009_04_15_2009.synRate:=treeScaler*givenTree.A_Mexico_4269_2009_04_15_2009.synRate__;
+givenTree.A_Mexico_24028_2009_04_28_2009.synRate:=treeScaler*givenTree.A_Mexico_24028_2009_04_28_2009.synRate__;
+givenTree.Node33.synRate:=treeScaler*givenTree.Node33.synRate__;
+givenTree.Node14.synRate:=treeScaler*givenTree.Node14.synRate__;
+givenTree.A_Arizona_02_2009_04_26_2009.synRate:=treeScaler*givenTree.A_Arizona_02_2009_04_26_2009.synRate__;
+givenTree.A_Mexico_24040_2009_04_29_2009.synRate:=treeScaler*givenTree.A_Mexico_24040_2009_04_29_2009.synRate__;
+givenTree.Node37.synRate:=treeScaler*givenTree.Node37.synRate__;
+givenTree.A_Mexico_24050_2009_04_27_2009.synRate:=treeScaler*givenTree.A_Mexico_24050_2009_04_27_2009.synRate__;
+givenTree.Node36.synRate:=treeScaler*givenTree.Node36.synRate__;
+givenTree.Node13.synRate:=treeScaler*givenTree.Node13.synRate__;
+givenTree.Node7.synRate:=treeScaler*givenTree.Node7.synRate__;
+givenTree.A_Mexico_24049_2009_04_27_2009.synRate:=treeScaler*givenTree.A_Mexico_24049_2009_04_27_2009.synRate__;
+givenTree.A_Texas_15_2009_04_15_2009.synRate:=treeScaler*givenTree.A_Texas_15_2009_04_15_2009.synRate__;
+givenTree.Node43.synRate:=treeScaler*givenTree.Node43.synRate__;
+givenTree.A_Houston_13OS_2009_04_28_2009.synRate:=treeScaler*givenTree.A_Houston_13OS_2009_04_28_2009.synRate__;
+givenTree.A_Indiana_09_2009_04_22_2009.synRate:=treeScaler*givenTree.A_Indiana_09_2009_04_22_2009.synRate__;
+givenTree.A_Michigan_04_2009_04_24_2009.synRate:=treeScaler*givenTree.A_Michigan_04_2009_04_24_2009.synRate__;
+givenTree.Node48.synRate:=treeScaler*givenTree.Node48.synRate__;
+givenTree.Node46.synRate:=treeScaler*givenTree.Node46.synRate__;
+givenTree.Node42.synRate:=treeScaler*givenTree.Node42.synRate__;
+givenTree.A_Canada_SK_RV1788_2009_04_30_2009.synRate:=treeScaler*givenTree.A_Canada_SK_RV1788_2009_04_30_2009.synRate__;
+givenTree.A_Florida_10_2009_04_30_2009.synRate:=treeScaler*givenTree.A_Florida_10_2009_04_30_2009.synRate__;
+givenTree.Node53.synRate:=treeScaler*givenTree.Node53.synRate__;
+givenTree.A_Mexico_InDRE13494_2009_04_29_2009.synRate:=treeScaler*givenTree.A_Mexico_InDRE13494_2009_04_29_2009.synRate__;
+givenTree.A_Mexico_24054_2009_04_27_2009.synRate:=treeScaler*givenTree.A_Mexico_24054_2009_04_27_2009.synRate__;
+givenTree.Node57.synRate:=treeScaler*givenTree.Node57.synRate__;
+givenTree.A_Mexico_24058_2009_04_28_2009.synRate:=treeScaler*givenTree.A_Mexico_24058_2009_04_28_2009.synRate__;
+givenTree.A_Mexico_24039_2009_04_29_2009.synRate:=treeScaler*givenTree.A_Mexico_24039_2009_04_29_2009.synRate__;
+givenTree.A_Mexico_24026_2009_04_28_2009.synRate:=treeScaler*givenTree.A_Mexico_24026_2009_04_28_2009.synRate__;
+givenTree.A_Texas_07_2009_04_25_2009.synRate:=treeScaler*givenTree.A_Texas_07_2009_04_25_2009.synRate__;
+givenTree.A_Minnesota_02_2009_04_27_2009.synRate:=treeScaler*givenTree.A_Minnesota_02_2009_04_27_2009.synRate__;
+givenTree.A_Mexico_24043_2009_04_17_2009.synRate:=treeScaler*givenTree.A_Mexico_24043_2009_04_17_2009.synRate__;
+givenTree.A_Mexico_24057_2009_04_28_2009.synRate:=treeScaler*givenTree.A_Mexico_24057_2009_04_28_2009.synRate__;
+givenTree.A_Texas_28_2009_04_29_2009.synRate:=treeScaler*givenTree.A_Texas_28_2009_04_29_2009.synRate__;
+givenTree.Node71.synRate:=treeScaler*givenTree.Node71.synRate__;
+givenTree.A_Mexico_24021_2009_04_23_2009.synRate:=treeScaler*givenTree.A_Mexico_24021_2009_04_23_2009.synRate__;
+givenTree.A_Mexico_24047_2009_04_27_2009.synRate:=treeScaler*givenTree.A_Mexico_24047_2009_04_27_2009.synRate__;
+givenTree.Node77.synRate:=treeScaler*givenTree.Node77.synRate__;
+givenTree.A_Mexico_24027_2009_04_28_2009.synRate:=treeScaler*givenTree.A_Mexico_24027_2009_04_28_2009.synRate__;
+givenTree.A_Texas_36_2009_04_29_2009.synRate:=treeScaler*givenTree.A_Texas_36_2009_04_29_2009.synRate__;
+givenTree.Node80.synRate:=treeScaler*givenTree.Node80.synRate__;
+givenTree.Node76.synRate:=treeScaler*givenTree.Node76.synRate__;
+givenTree.Node70.synRate:=treeScaler*givenTree.Node70.synRate__;
+givenTree.Node68.synRate:=treeScaler*givenTree.Node68.synRate__;
+givenTree.Node66.synRate:=treeScaler*givenTree.Node66.synRate__;
+givenTree.Node64.synRate:=treeScaler*givenTree.Node64.synRate__;
+givenTree.A_Brawley_WR1636P_2009_04_29_2009.synRate:=treeScaler*givenTree.A_Brawley_WR1636P_2009_04_29_2009.synRate__;
+givenTree.A_Mexico_24060_2009_04_28_2009.synRate:=treeScaler*givenTree.A_Mexico_24060_2009_04_28_2009.synRate__;
+givenTree.Node84.synRate:=treeScaler*givenTree.Node84.synRate__;
+givenTree.A_Brawley_40081_2009_04_22_2009.synRate:=treeScaler*givenTree.A_Brawley_40081_2009_04_22_2009.synRate__;
+givenTree.A_California_12_2009_04_22_2009.synRate:=treeScaler*givenTree.A_California_12_2009_04_22_2009.synRate__;
+givenTree.Node88.synRate:=treeScaler*givenTree.Node88.synRate__;
+givenTree.A_San_Diego_WR1629P_2009_04_30_2009.synRate:=treeScaler*givenTree.A_San_Diego_WR1629P_2009_04_30_2009.synRate__;
+givenTree.A_Washington_11_2009_04_26_2009.synRate:=treeScaler*givenTree.A_Washington_11_2009_04_26_2009.synRate__;
+givenTree.A_Colorado_03_2009_04_27_2009.synRate:=treeScaler*givenTree.A_Colorado_03_2009_04_27_2009.synRate__;
+givenTree.A_Idaho_02_2009_04_28_2009.synRate:=treeScaler*givenTree.A_Idaho_02_2009_04_28_2009.synRate__;
+givenTree.A_Colorado_04_2009_04_26_2009.synRate:=treeScaler*givenTree.A_Colorado_04_2009_04_26_2009.synRate__;
+givenTree.A_Wisconsin_09_2009_04_27_2009.synRate:=treeScaler*givenTree.A_Wisconsin_09_2009_04_27_2009.synRate__;
+givenTree.Node96.synRate:=treeScaler*givenTree.Node96.synRate__;
+givenTree.A_California_06_2009_04_16_2009.synRate:=treeScaler*givenTree.A_California_06_2009_04_16_2009.synRate__;
+givenTree.Node95.synRate:=treeScaler*givenTree.Node95.synRate__;
+givenTree.A_Brawley_WR1635P_2009_04_28_2009.synRate:=treeScaler*givenTree.A_Brawley_WR1635P_2009_04_28_2009.synRate__;
+givenTree.A_California_10_2009_04_08_2009.synRate:=treeScaler*givenTree.A_California_10_2009_04_08_2009.synRate__;
+givenTree.A_California_11_2009_04_24_2009.synRate:=treeScaler*givenTree.A_California_11_2009_04_24_2009.synRate__;
+givenTree.A_Brawley_40082_2009_04_21_2009.synRate:=treeScaler*givenTree.A_Brawley_40082_2009_04_21_2009.synRate__;
+givenTree.A_Mexico_24044_2009_04_20_2009.synRate:=treeScaler*givenTree.A_Mexico_24044_2009_04_20_2009.synRate__;
+givenTree.A_California_18_2009_04_30_2009.synRate:=treeScaler*givenTree.A_California_18_2009_04_30_2009.synRate__;
+givenTree.A_Hawaii_09_2009_04_30_2009.synRate:=treeScaler*givenTree.A_Hawaii_09_2009_04_30_2009.synRate__;
+givenTree.A_California_13_2009_04_21_2009.synRate:=treeScaler*givenTree.A_California_13_2009_04_21_2009.synRate__;
+givenTree.Node104.synRate:=treeScaler*givenTree.Node104.synRate__;
+givenTree.A_Arizona_06_2009_04_28_2009.synRate:=treeScaler*givenTree.A_Arizona_06_2009_04_28_2009.synRate__;
+givenTree.A_San_Diego_WR1631P_2009_04_30_2009.synRate:=treeScaler*givenTree.A_San_Diego_WR1631P_2009_04_30_2009.synRate__;
+givenTree.A_California_17_2009_04_25_2009.synRate:=treeScaler*givenTree.A_California_17_2009_04_25_2009.synRate__;
+givenTree.Node115.synRate:=treeScaler*givenTree.Node115.synRate__;
+givenTree.Node113.synRate:=treeScaler*givenTree.Node113.synRate__;
+givenTree.Node103.synRate:=treeScaler*givenTree.Node103.synRate__;
+givenTree.Node94.synRate:=treeScaler*givenTree.Node94.synRate__;
+givenTree.Node92.synRate:=treeScaler*givenTree.Node92.synRate__;
+givenTree.A_Cherry_Point_WR1355_2009_04_28_2009.synRate:=treeScaler*givenTree.A_Cherry_Point_WR1355_2009_04_28_2009.synRate__;
+givenTree.A_Cherry_Point_WR0080_2009_04_30_2009.synRate:=treeScaler*givenTree.A_Cherry_Point_WR0080_2009_04_30_2009.synRate__;
+givenTree.Node118.synRate:=treeScaler*givenTree.Node118.synRate__;
+givenTree.Node91.synRate:=treeScaler*givenTree.Node91.synRate__;
+givenTree.Node87.synRate:=treeScaler*givenTree.Node87.synRate__;
+givenTree.Node83.synRate:=treeScaler*givenTree.Node83.synRate__;
+givenTree.Node63.synRate:=treeScaler*givenTree.Node63.synRate__;
+givenTree.Node61.synRate:=treeScaler*givenTree.Node61.synRate__;
+givenTree.A_Mexico_InDRE13547_2009_04_27_2009.synRate:=treeScaler*givenTree.A_Mexico_InDRE13547_2009_04_27_2009.synRate__;
+givenTree.A_Mexico_24052_2009_04_27_2009.synRate:=treeScaler*givenTree.A_Mexico_24052_2009_04_27_2009.synRate__;
+givenTree.Node121.synRate:=treeScaler*givenTree.Node121.synRate__;
+givenTree.Node60.synRate:=treeScaler*givenTree.Node60.synRate__;
+givenTree.Node56.synRate:=treeScaler*givenTree.Node56.synRate__;
+givenTree.Node52.synRate:=treeScaler*givenTree.Node52.synRate__;
+givenTree.A_Alabama_02_2009_04_27_2009.synRate:=treeScaler*givenTree.A_Alabama_02_2009_04_27_2009.synRate__;
+givenTree.A_Tennessee_05_2009_04_28_2009.synRate:=treeScaler*givenTree.A_Tennessee_05_2009_04_28_2009.synRate__;
+givenTree.Node125.synRate:=treeScaler*givenTree.Node125.synRate__;
+givenTree.A_Kentucky_05_2009_04_30_2009.synRate:=treeScaler*givenTree.A_Kentucky_05_2009_04_30_2009.synRate__;
+givenTree.Node124.synRate:=treeScaler*givenTree.Node124.synRate__;
+givenTree.Node51.synRate:=treeScaler*givenTree.Node51.synRate__;
+givenTree.Node41.synRate:=treeScaler*givenTree.Node41.synRate__;
+givenTree.Node6.synRate:=treeScaler*givenTree.Node6.synRate__;
+givenTree.A_Mexico_4108_2009_04_03_2009.synRate:=treeScaler*givenTree.A_Mexico_4108_2009_04_03_2009.synRate__;
+givenTree.A_Texas_11_2009_04_23_2009.synRate:=treeScaler*givenTree.A_Texas_11_2009_04_23_2009.synRate__;
+givenTree.A_North_Carolina_05_2009_04_28_2009.synRate:=treeScaler*givenTree.A_North_Carolina_05_2009_04_28_2009.synRate__;
+givenTree.A_Oklahoma_01_2009_04_28_2009.synRate:=treeScaler*givenTree.A_Oklahoma_01_2009_04_28_2009.synRate__;
+givenTree.A_Texas_22_2009_04_26_2009.synRate:=treeScaler*givenTree.A_Texas_22_2009_04_26_2009.synRate__;
+givenTree.A_Kansas_02_2009_04_24_2009.synRate:=treeScaler*givenTree.A_Kansas_02_2009_04_24_2009.synRate__;
+givenTree.A_Texas_05_2009_04_15_2009.synRate:=treeScaler*givenTree.A_Texas_05_2009_04_15_2009.synRate__;
+givenTree.A_Texas_09_2009_04_25_2009.synRate:=treeScaler*givenTree.A_Texas_09_2009_04_25_2009.synRate__;
+givenTree.A_Texas_12_2009_04_24_2009.synRate:=treeScaler*givenTree.A_Texas_12_2009_04_24_2009.synRate__;
+givenTree.A_Texas_04_2009_04_14_2009.synRate:=treeScaler*givenTree.A_Texas_04_2009_04_14_2009.synRate__;
+givenTree.A_Texas_08_2009_04_24_2009.synRate:=treeScaler*givenTree.A_Texas_08_2009_04_24_2009.synRate__;
+givenTree.A_Texas_06_2009_04_23_2009.synRate:=treeScaler*givenTree.A_Texas_06_2009_04_23_2009.synRate__;
+givenTree.A_San_Antonio_PR921_2009_04_14_2009.synRate:=treeScaler*givenTree.A_San_Antonio_PR921_2009_04_14_2009.synRate__;
+givenTree.Node138.synRate:=treeScaler*givenTree.Node138.synRate__;
+givenTree.Node136.synRate:=treeScaler*givenTree.Node136.synRate__;
+givenTree.Node134.synRate:=treeScaler*givenTree.Node134.synRate__;
+givenTree.A_Mexico_4627_2009_04_20_2009.synRate:=treeScaler*givenTree.A_Mexico_4627_2009_04_20_2009.synRate__;
+givenTree.A_Delaware_07_2009_04_28_2009.synRate:=treeScaler*givenTree.A_Delaware_07_2009_04_28_2009.synRate__;
+givenTree.A_District_of_Columbia_03_2009_04_27_2009.synRate:=treeScaler*givenTree.A_District_of_Columbia_03_2009_04_27_2009.synRate__;
+givenTree.A_New_York_1682_2009_04_27_2009.synRate:=treeScaler*givenTree.A_New_York_1682_2009_04_27_2009.synRate__;
+givenTree.A_District_of_Columbia_02_2009_04_29_2009.synRate:=treeScaler*givenTree.A_District_of_Columbia_02_2009_04_29_2009.synRate__;
+givenTree.A_Delaware_03_2009_04_28_2009.synRate:=treeScaler*givenTree.A_Delaware_03_2009_04_28_2009.synRate__;
+givenTree.A_Maryland_05_2009_04_29_2009.synRate:=treeScaler*givenTree.A_Maryland_05_2009_04_29_2009.synRate__;
+givenTree.A_New_Hampshire_02_2009_04_28_2009.synRate:=treeScaler*givenTree.A_New_Hampshire_02_2009_04_28_2009.synRate__;
+givenTree.A_New_York_3100_2009_04_30_2009.synRate:=treeScaler*givenTree.A_New_York_3100_2009_04_30_2009.synRate__;
+givenTree.A_Delaware_04_2009_04_28_2009.synRate:=treeScaler*givenTree.A_Delaware_04_2009_04_28_2009.synRate__;
+givenTree.A_Delaware_02_2009_04_28_2009.synRate:=treeScaler*givenTree.A_Delaware_02_2009_04_28_2009.synRate__;
+givenTree.A_New_York_3183_2009_04_28_2009.synRate:=treeScaler*givenTree.A_New_York_3183_2009_04_28_2009.synRate__;
+givenTree.Node154.synRate:=treeScaler*givenTree.Node154.synRate__;
+givenTree.A_Delaware_06_2009_04_28_2009.synRate:=treeScaler*givenTree.A_Delaware_06_2009_04_28_2009.synRate__;
+givenTree.A_New_York_3099_2009_04_29_2009.synRate:=treeScaler*givenTree.A_New_York_3099_2009_04_29_2009.synRate__;
+givenTree.Node165.synRate:=treeScaler*givenTree.Node165.synRate__;
+givenTree.Node153.synRate:=treeScaler*givenTree.Node153.synRate__;
+givenTree.Node151.synRate:=treeScaler*givenTree.Node151.synRate__;
+givenTree.Node149.synRate:=treeScaler*givenTree.Node149.synRate__;
+givenTree.Node133.synRate:=treeScaler*givenTree.Node133.synRate__;
+givenTree.Node131.synRate:=treeScaler*givenTree.Node131.synRate__;
+givenTree.A_Mexico_24051_2009_04_27_2009.synRate:=treeScaler*givenTree.A_Mexico_24051_2009_04_27_2009.synRate__;
+givenTree.Node130.synRate:=treeScaler*givenTree.Node130.synRate__;
+givenTree.A_Mexico_24045_2009_04_20_2009.synRate:=treeScaler*givenTree.A_Mexico_24045_2009_04_20_2009.synRate__;
+givenTree.A_Mexico_24053_2009_04_27_2009.synRate:=treeScaler*givenTree.A_Mexico_24053_2009_04_27_2009.synRate__;
+givenTree.A_Mexico_24022_2009_04_27_2009.synRate:=treeScaler*givenTree.A_Mexico_24022_2009_04_27_2009.synRate__;
+givenTree.A_Mexico_24033_2009_04_14_2009.synRate:=treeScaler*givenTree.A_Mexico_24033_2009_04_14_2009.synRate__;
+givenTree.A_Illinois_01_2009_04_24_2009.synRate:=treeScaler*givenTree.A_Illinois_01_2009_04_24_2009.synRate__;
+givenTree.A_Mexico_24056_2009_04_28_2009.synRate:=treeScaler*givenTree.A_Mexico_24056_2009_04_28_2009.synRate__;
+givenTree.A_Michigan_30_2009_04_10_2009.synRate:=treeScaler*givenTree.A_Michigan_30_2009_04_10_2009.synRate__;
+givenTree.A_Mexico_4176_2009_04_13_2009.synRate:=treeScaler*givenTree.A_Mexico_4176_2009_04_13_2009.synRate__;
+givenTree.A_Nevada_04_2009_04_29_2009.synRate:=treeScaler*givenTree.A_Nevada_04_2009_04_29_2009.synRate__;
+givenTree.A_New_York_3178_2009_04_28_2009.synRate:=treeScaler*givenTree.A_New_York_3178_2009_04_28_2009.synRate__;
+givenTree.A_Washington_08_2009_04_27_2009.synRate:=treeScaler*givenTree.A_Washington_08_2009_04_27_2009.synRate__;
+givenTree.A_Arizona_01_2009_04_22_2009.synRate:=treeScaler*givenTree.A_Arizona_01_2009_04_22_2009.synRate__;
+givenTree.A_Mexico_4646_2009_04_20_2009.synRate:=treeScaler*givenTree.A_Mexico_4646_2009_04_20_2009.synRate__;
+givenTree.A_Toronto_3141_2009_04_24_2009.synRate:=treeScaler*givenTree.A_Toronto_3141_2009_04_24_2009.synRate__;
+givenTree.A_Mexico_24030_2009_04_29_2009.synRate:=treeScaler*givenTree.A_Mexico_24030_2009_04_29_2009.synRate__;
+givenTree.A_North_Carolina_06_2009_04_28_2009.synRate:=treeScaler*givenTree.A_North_Carolina_06_2009_04_28_2009.synRate__;
+givenTree.A_New_York_3074_2009_04_29_2009.synRate:=treeScaler*givenTree.A_New_York_3074_2009_04_29_2009.synRate__;
+givenTree.A_Mexico_4593_2009_04_20_2009.synRate:=treeScaler*givenTree.A_Mexico_4593_2009_04_20_2009.synRate__;
+givenTree.A_Washington_07_2009_04_28_2009.synRate:=treeScaler*givenTree.A_Washington_07_2009_04_28_2009.synRate__;
+givenTree.A_Mexico_InDRE13495_2009_04_29_2009.synRate:=treeScaler*givenTree.A_Mexico_InDRE13495_2009_04_29_2009.synRate__;
+givenTree.A_New_Mexico_04_2009_04_26_2009.synRate:=treeScaler*givenTree.A_New_Mexico_04_2009_04_26_2009.synRate__;
+givenTree.A_Washington_09_2009_04_28_2009.synRate:=treeScaler*givenTree.A_Washington_09_2009_04_28_2009.synRate__;
+givenTree.A_Mexico_24007_2009_04_23_2009.synRate:=treeScaler*givenTree.A_Mexico_24007_2009_04_23_2009.synRate__;
+givenTree.A_Washington_18_2009_04_30_2009.synRate:=treeScaler*givenTree.A_Washington_18_2009_04_30_2009.synRate__;
+givenTree.A_Oregon_07_2009_04_29_2009.synRate:=treeScaler*givenTree.A_Oregon_07_2009_04_29_2009.synRate__;
+givenTree.A_Oregon_06_2009_04_28_2009.synRate:=treeScaler*givenTree.A_Oregon_06_2009_04_28_2009.synRate__;
+givenTree.A_New_York_1669_2009_04_26_2009.synRate:=treeScaler*givenTree.A_New_York_1669_2009_04_26_2009.synRate__;
+givenTree.A_Mexico_24032_2009_04_17_2009.synRate:=treeScaler*givenTree.A_Mexico_24032_2009_04_17_2009.synRate__;
+givenTree.A_Ohio_10_2009_04_30_2009.synRate:=treeScaler*givenTree.A_Ohio_10_2009_04_30_2009.synRate__;
+givenTree.A_Mexico_4115_2009_04_07_2009.synRate:=treeScaler*givenTree.A_Mexico_4115_2009_04_07_2009.synRate__;
+givenTree.A_Oklahoma_02_2009_04_29_2009.synRate:=treeScaler*givenTree.A_Oklahoma_02_2009_04_29_2009.synRate__;
+givenTree.A_Arizona_03_2009_04_26_2009.synRate:=treeScaler*givenTree.A_Arizona_03_2009_04_26_2009.synRate__;
+givenTree.Node169.synRate:=treeScaler*givenTree.Node169.synRate__;
+givenTree.Node129.synRate:=treeScaler*givenTree.Node129.synRate__;
+givenTree.Node5.synRate:=treeScaler*givenTree.Node5.synRate__;
+givenTree.A_Florida_04_2009_04_27_2009.synRate:=treeScaler*givenTree.A_Florida_04_2009_04_27_2009.synRate__;
+givenTree.A_Kansas_03_2009_04_24_2009.synRate:=treeScaler*givenTree.A_Kansas_03_2009_04_24_2009.synRate__;
+givenTree.Node204.synRate:=treeScaler*givenTree.Node204.synRate__;
+givenTree.A_Washington_12_2009_04_27_2009.synRate:=treeScaler*givenTree.A_Washington_12_2009_04_27_2009.synRate__;
+givenTree.Node203.synRate:=treeScaler*givenTree.Node203.synRate__;
+givenTree.A_Canada_NS_RV1554_2009_04_29_2009.synRate:=treeScaler*givenTree.A_Canada_NS_RV1554_2009_04_29_2009.synRate__;
+givenTree.A_Canada_NS_RV1551_2009_04_29_2009.synRate:=treeScaler*givenTree.A_Canada_NS_RV1551_2009_04_29_2009.synRate__;
+givenTree.A_Canada_NS_RV1565_2009_04_30_2009.synRate:=treeScaler*givenTree.A_Canada_NS_RV1565_2009_04_30_2009.synRate__;
+givenTree.A_Canada_NS_RV1535_2009_04_24_2009.synRate:=treeScaler*givenTree.A_Canada_NS_RV1535_2009_04_24_2009.synRate__;
+givenTree.Node209.synRate:=treeScaler*givenTree.Node209.synRate__;
+givenTree.A_Oregon_05_2009_04_29_2009.synRate:=treeScaler*givenTree.A_Oregon_05_2009_04_29_2009.synRate__;
+givenTree.Node208.synRate:=treeScaler*givenTree.Node208.synRate__;
+givenTree.Node202.synRate:=treeScaler*givenTree.Node202.synRate__;
+givenTree.Node4.synRate:=treeScaler*givenTree.Node4.synRate__;
+givenTree.A_Texas_37_2009_04_26_2009.synRate:=treeScaler*givenTree.A_Texas_37_2009_04_26_2009.synRate__;
+givenTree.A_Texas_17_2009_04_24_2009.synRate:=treeScaler*givenTree.A_Texas_17_2009_04_24_2009.synRate__;
+givenTree.Node216.synRate:=treeScaler*givenTree.Node216.synRate__;
+givenTree.A_Mexico_InDRE4487_2009_04_14_2009.synRate:=treeScaler*givenTree.A_Mexico_InDRE4487_2009_04_14_2009.synRate__;
+givenTree.A_Mexico_4603_2009_04_19_2009.synRate:=treeScaler*givenTree.A_Mexico_4603_2009_04_19_2009.synRate__;
+givenTree.Node219.synRate:=treeScaler*givenTree.Node219.synRate__;
+givenTree.Node215.synRate:=treeScaler*givenTree.Node215.synRate__;
+givenTree.Node3.synRate:=treeScaler*givenTree.Node3.synRate__;
+givenTree.A_Wisconsin_629_D00015_2009_04_30_2009.synRate:=treeScaler*givenTree.A_Wisconsin_629_D00015_2009_04_30_2009.synRate__;
+givenTree.A_Mexico_24061_2009_04_28_2009.synRate:=treeScaler*givenTree.A_Mexico_24061_2009_04_28_2009.synRate__;
+givenTree.Node222.synRate:=treeScaler*givenTree.Node222.synRate__;
+givenTree.Node2.synRate:=treeScaler*givenTree.Node2.synRate__;
+givenTree.A_Mexico_24055_2009_04_28_2009.synRate:=treeScaler*givenTree.A_Mexico_24055_2009_04_28_2009.synRate__;
+givenTree.A_California_07_JRO09_2009_04_09_2009.synRate:=treeScaler*givenTree.A_California_07_JRO09_2009_04_09_2009.synRate__;
+givenTree.A_California_07_JRO10_2009_04_09_2009.synRate:=treeScaler*givenTree.A_California_07_JRO10_2009_04_09_2009.synRate__;
+givenTree.A_California_07_2009_04_09_2009.synRate:=treeScaler*givenTree.A_California_07_2009_04_09_2009.synRate__;
+givenTree.A_California_04_2009_04_01_2009.synRate:=treeScaler*givenTree.A_California_04_2009_04_01_2009.synRate__;
+givenTree.A_Pennsylvania_09_2009_04_30_2009.synRate:=treeScaler*givenTree.A_Pennsylvania_09_2009_04_30_2009.synRate__;
+givenTree.Node234.synRate:=treeScaler*givenTree.Node234.synRate__;
+givenTree.Node232.synRate:=treeScaler*givenTree.Node232.synRate__;
+givenTree.A_California_07_JRO08_2009_04_09_2009.synRate:=treeScaler*givenTree.A_California_07_JRO08_2009_04_09_2009.synRate__;
+givenTree.A_California_07_JRO03_2009_04_09_2009.synRate:=treeScaler*givenTree.A_California_07_JRO03_2009_04_09_2009.synRate__;
+givenTree.A_California_08_2009_04_09_2009.synRate:=treeScaler*givenTree.A_California_08_2009_04_09_2009.synRate__;
+givenTree.A_California_07_JRO02_2009_04_09_2009.synRate:=treeScaler*givenTree.A_California_07_JRO02_2009_04_09_2009.synRate__;
+givenTree.Node237.synRate:=treeScaler*givenTree.Node237.synRate__;
+givenTree.Node231.synRate:=treeScaler*givenTree.Node231.synRate__;
+givenTree.Node229.synRate:=treeScaler*givenTree.Node229.synRate__;
+givenTree.Node227.synRate:=treeScaler*givenTree.Node227.synRate__;
+givenTree.Node225.synRate:=treeScaler*givenTree.Node225.synRate__;
+givenTree.A_Mexico_City_024_2009_04_30_2009.synRate:=treeScaler*givenTree.A_Mexico_City_024_2009_04_30_2009.synRate__;
+givenTree.A_Mexico_4486_2009_04_14_2009.synRate:=treeScaler*givenTree.A_Mexico_4486_2009_04_14_2009.synRate__;
+givenTree.Node247.synRate:=treeScaler*givenTree.Node247.synRate__;
+givenTree.A_Alaska_04_2009_05_2009.synRate:=treeScaler*givenTree.A_Alaska_04_2009_05_2009.synRate__;
+givenTree.A_Mexico_City_020_2009_04_30_2009.synRate:=treeScaler*givenTree.A_Mexico_City_020_2009_04_30_2009.synRate__;
+givenTree.Node250.synRate:=treeScaler*givenTree.Node250.synRate__;
+givenTree.Node246.synRate:=treeScaler*givenTree.Node246.synRate__;
+givenTree.A_Wisconsin_629_D02361_2009_04_30_2009.synRate:=treeScaler*givenTree.A_Wisconsin_629_D02361_2009_04_30_2009.synRate__;
+givenTree.A_Wisconsin_629_D00750_2009_04_30_2009.synRate:=treeScaler*givenTree.A_Wisconsin_629_D00750_2009_04_30_2009.synRate__;
+givenTree.A_Iowa_04_2009_04_24_2009.synRate:=treeScaler*givenTree.A_Iowa_04_2009_04_24_2009.synRate__;
+givenTree.Node257.synRate:=treeScaler*givenTree.Node257.synRate__;
+givenTree.Node255.synRate:=treeScaler*givenTree.Node255.synRate__;
+givenTree.A_Texas_23_2009_04_27_2009.synRate:=treeScaler*givenTree.A_Texas_23_2009_04_27_2009.synRate__;
+givenTree.Node254.synRate:=treeScaler*givenTree.Node254.synRate__;
+givenTree.A_Florida_11_2009_04_30_2009.synRate:=treeScaler*givenTree.A_Florida_11_2009_04_30_2009.synRate__;
+givenTree.Node253.synRate:=treeScaler*givenTree.Node253.synRate__;
+givenTree.Node245.synRate:=treeScaler*givenTree.Node245.synRate__;
+givenTree.A_Wisconsin_629_D01773_2009_04_30_2009.synRate:=treeScaler*givenTree.A_Wisconsin_629_D01773_2009_04_30_2009.synRate__;
+givenTree.A_Mexico_4502_2009_04_17_2009.synRate:=treeScaler*givenTree.A_Mexico_4502_2009_04_17_2009.synRate__;
+givenTree.Node262.synRate:=treeScaler*givenTree.Node262.synRate__;
+givenTree.Node244.synRate:=treeScaler*givenTree.Node244.synRate__;
+givenTree.A_Oregon_04_2009_04_27_2009.synRate:=treeScaler*givenTree.A_Oregon_04_2009_04_27_2009.synRate__;
+givenTree.A_Mexico_4635_2009_04_20_2009.synRate:=treeScaler*givenTree.A_Mexico_4635_2009_04_20_2009.synRate__;
+givenTree.Node266.synRate:=treeScaler*givenTree.Node266.synRate__;
+givenTree.A_Wisconsin_629_D02141_2009_04_30_2009.synRate:=treeScaler*givenTree.A_Wisconsin_629_D02141_2009_04_30_2009.synRate__;
+givenTree.A_Michigan_02_2009_04_26_2009.synRate:=treeScaler*givenTree.A_Michigan_02_2009_04_26_2009.synRate__;
+givenTree.A_Texas_19_2009_04_26_2009.synRate:=treeScaler*givenTree.A_Texas_19_2009_04_26_2009.synRate__;
+givenTree.A_Mexico_InDRE13551_2009_04_28_2009.synRate:=treeScaler*givenTree.A_Mexico_InDRE13551_2009_04_28_2009.synRate__;
+givenTree.A_Mexico_City_019_2009_04_30_2009.synRate:=treeScaler*givenTree.A_Mexico_City_019_2009_04_30_2009.synRate__;
+givenTree.A_Mexico_4283_2009_04_15_2009.synRate:=treeScaler*givenTree.A_Mexico_4283_2009_04_15_2009.synRate__;
+givenTree.A_Mexico_4595_2009_04_20_2009.synRate:=treeScaler*givenTree.A_Mexico_4595_2009_04_20_2009.synRate__;
+givenTree.A_Wisconsin_08_2009_04_27_2009.synRate:=treeScaler*givenTree.A_Wisconsin_08_2009_04_27_2009.synRate__;
+givenTree.A_Wisconsin_629_D01505_2009_04_28_2009.synRate:=treeScaler*givenTree.A_Wisconsin_629_D01505_2009_04_28_2009.synRate__;
+givenTree.A_Mexico_4604_2009_04_19_2009.synRate:=treeScaler*givenTree.A_Mexico_4604_2009_04_19_2009.synRate__;
+givenTree.A_Mexico_4482_2009_04_14_2009.synRate:=treeScaler*givenTree.A_Mexico_4482_2009_04_14_2009.synRate__;
+givenTree.A_Wisconsin_629_D00447_2009_04_30_2009.synRate:=treeScaler*givenTree.A_Wisconsin_629_D00447_2009_04_30_2009.synRate__;
+givenTree.A_Wisconsin_629_D00767_2009_04_30_2009.synRate:=treeScaler*givenTree.A_Wisconsin_629_D00767_2009_04_30_2009.synRate__;
+givenTree.A_Mexico_4575_2009_04_20_2009.synRate:=treeScaler*givenTree.A_Mexico_4575_2009_04_20_2009.synRate__;
+givenTree.A_Wisconsin_07_2009_04_27_2009.synRate:=treeScaler*givenTree.A_Wisconsin_07_2009_04_27_2009.synRate__;
+givenTree.A_Wisconsin_629_D01486_2009_04_29_2009.synRate:=treeScaler*givenTree.A_Wisconsin_629_D01486_2009_04_29_2009.synRate__;
+givenTree.A_Mexico_24024_2009_04_27_2009.synRate:=treeScaler*givenTree.A_Mexico_24024_2009_04_27_2009.synRate__;
+givenTree.A_Mexico_InDRE13555_2009_04_29_2009.synRate:=treeScaler*givenTree.A_Mexico_InDRE13555_2009_04_29_2009.synRate__;
+givenTree.A_Wisconsin_629_D01529_2009_04_30_2009.synRate:=treeScaler*givenTree.A_Wisconsin_629_D01529_2009_04_30_2009.synRate__;
+givenTree.A_Wisconsin_629_D01558_2009_04_30_2009.synRate:=treeScaler*givenTree.A_Wisconsin_629_D01558_2009_04_30_2009.synRate__;
+givenTree.Node269.synRate:=treeScaler*givenTree.Node269.synRate__;
+givenTree.Node265.synRate:=treeScaler*givenTree.Node265.synRate__;
+givenTree.Node243.synRate:=treeScaler*givenTree.Node243.synRate__;
+givenTree.A_Canada_AB_RV1531_2009_04_28_2009.synRate:=treeScaler*givenTree.A_Canada_AB_RV1531_2009_04_28_2009.synRate__;
+givenTree.A_New_York_3232_2009_04_30_2009.synRate:=treeScaler*givenTree.A_New_York_3232_2009_04_30_2009.synRate__;
+givenTree.A_New_York_3348_2009_04_28_2009.synRate:=treeScaler*givenTree.A_New_York_3348_2009_04_28_2009.synRate__;
+givenTree.A_Rhode_Island_03_2009_04_30_2009.synRate:=treeScaler*givenTree.A_Rhode_Island_03_2009_04_30_2009.synRate__;
+givenTree.Node297.synRate:=treeScaler*givenTree.Node297.synRate__;
+givenTree.A_Rhode_Island_02_2009_04_28_2009.synRate:=treeScaler*givenTree.A_Rhode_Island_02_2009_04_28_2009.synRate__;
+givenTree.Node296.synRate:=treeScaler*givenTree.Node296.synRate__;
+givenTree.Node294.synRate:=treeScaler*givenTree.Node294.synRate__;
+givenTree.A_New_York_23_2009_04_24_2009.synRate:=treeScaler*givenTree.A_New_York_23_2009_04_24_2009.synRate__;
+givenTree.A_New_York_34_2009_04_25_2009.synRate:=treeScaler*givenTree.A_New_York_34_2009_04_25_2009.synRate__;
+givenTree.Node303.synRate:=treeScaler*givenTree.Node303.synRate__;
+givenTree.A_New_York_3189_2009_04_29_2009.synRate:=treeScaler*givenTree.A_New_York_3189_2009_04_29_2009.synRate__;
+givenTree.A_New_York_3198_2009_04_29_2009.synRate:=treeScaler*givenTree.A_New_York_3198_2009_04_29_2009.synRate__;
+givenTree.Node309.synRate:=treeScaler*givenTree.Node309.synRate__;
+givenTree.A_New_York_3007_2009_04_27_2009.synRate:=treeScaler*givenTree.A_New_York_3007_2009_04_27_2009.synRate__;
+givenTree.A_Ohio_08_2009_04_27_2009.synRate:=treeScaler*givenTree.A_Ohio_08_2009_04_27_2009.synRate__;
+givenTree.A_Ohio_07_2009_04_24_2009.synRate:=treeScaler*givenTree.A_Ohio_07_2009_04_24_2009.synRate__;
+givenTree.Node313.synRate:=treeScaler*givenTree.Node313.synRate__;
+givenTree.A_Georgia_01_2009_04_27_2009.synRate:=treeScaler*givenTree.A_Georgia_01_2009_04_27_2009.synRate__;
+givenTree.Node312.synRate:=treeScaler*givenTree.Node312.synRate__;
+givenTree.Node308.synRate:=treeScaler*givenTree.Node308.synRate__;
+givenTree.A_New_York_3012_2009_04_27_2009.synRate:=treeScaler*givenTree.A_New_York_3012_2009_04_27_2009.synRate__;
+givenTree.Node307.synRate:=treeScaler*givenTree.Node307.synRate__;
+givenTree.A_New_York_3205_2009_04_26_2009.synRate:=treeScaler*givenTree.A_New_York_3205_2009_04_26_2009.synRate__;
+givenTree.A_New_York_3217_2009_04_25_2009.synRate:=treeScaler*givenTree.A_New_York_3217_2009_04_25_2009.synRate__;
+givenTree.Node320.synRate:=treeScaler*givenTree.Node320.synRate__;
+givenTree.A_New_York_3195_2009_04_28_2009.synRate:=treeScaler*givenTree.A_New_York_3195_2009_04_28_2009.synRate__;
+givenTree.A_New_York_3199_2009_04_28_2009.synRate:=treeScaler*givenTree.A_New_York_3199_2009_04_28_2009.synRate__;
+givenTree.Node323.synRate:=treeScaler*givenTree.Node323.synRate__;
+givenTree.Node319.synRate:=treeScaler*givenTree.Node319.synRate__;
+givenTree.Node306.synRate:=treeScaler*givenTree.Node306.synRate__;
+givenTree.Node302.synRate:=treeScaler*givenTree.Node302.synRate__;
+givenTree.A_New_York_3196_2009_04_28_2009.synRate:=treeScaler*givenTree.A_New_York_3196_2009_04_28_2009.synRate__;
+givenTree.A_New_York_3209_2009_04_25_2009.synRate:=treeScaler*givenTree.A_New_York_3209_2009_04_25_2009.synRate__;
+givenTree.A_New_York_3124_2009_04_28_2009.synRate:=treeScaler*givenTree.A_New_York_3124_2009_04_28_2009.synRate__;
+givenTree.A_New_York_3247_2009_04_29_2009.synRate:=treeScaler*givenTree.A_New_York_3247_2009_04_29_2009.synRate__;
+givenTree.A_New_York_31_2009_04_24_2009.synRate:=treeScaler*givenTree.A_New_York_31_2009_04_24_2009.synRate__;
+givenTree.A_Canada_ON_RV1589_2009_04_27_2009.synRate:=treeScaler*givenTree.A_Canada_ON_RV1589_2009_04_27_2009.synRate__;
+givenTree.A_New_York_3236_2009_04_28_2009.synRate:=treeScaler*givenTree.A_New_York_3236_2009_04_28_2009.synRate__;
+givenTree.A_New_York_3206_2009_04_26_2009.synRate:=treeScaler*givenTree.A_New_York_3206_2009_04_26_2009.synRate__;
+givenTree.A_New_York_06_2009_04_25_2009.synRate:=treeScaler*givenTree.A_New_York_06_2009_04_25_2009.synRate__;
+givenTree.A_New_York_3203_2009_04_27_2009.synRate:=treeScaler*givenTree.A_New_York_3203_2009_04_27_2009.synRate__;
+givenTree.A_New_York_3238_2009_04_28_2009.synRate:=treeScaler*givenTree.A_New_York_3238_2009_04_28_2009.synRate__;
+givenTree.A_New_York_3204_2009_04_27_2009.synRate:=treeScaler*givenTree.A_New_York_3204_2009_04_27_2009.synRate__;
+givenTree.A_New_York_3210_2009_04_24_2009.synRate:=treeScaler*givenTree.A_New_York_3210_2009_04_24_2009.synRate__;
+givenTree.A_New_York_3008_2009_04_27_2009.synRate:=treeScaler*givenTree.A_New_York_3008_2009_04_27_2009.synRate__;
+givenTree.A_New_York_15_2009_04_25_2009.synRate:=treeScaler*givenTree.A_New_York_15_2009_04_25_2009.synRate__;
+givenTree.A_New_York_18_2009_04_25_2009.synRate:=treeScaler*givenTree.A_New_York_18_2009_04_25_2009.synRate__;
+givenTree.A_New_York_39_2009_04_25_2009.synRate:=treeScaler*givenTree.A_New_York_39_2009_04_25_2009.synRate__;
+givenTree.A_New_York_3227_2009_04_28_2009.synRate:=treeScaler*givenTree.A_New_York_3227_2009_04_28_2009.synRate__;
+givenTree.A_New_York_3169_2009_04_26_2009.synRate:=treeScaler*givenTree.A_New_York_3169_2009_04_26_2009.synRate__;
+givenTree.A_New_York_3188_2009_04_28_2009.synRate:=treeScaler*givenTree.A_New_York_3188_2009_04_28_2009.synRate__;
+givenTree.A_New_York_3261_2009_04_29_2009.synRate:=treeScaler*givenTree.A_New_York_3261_2009_04_29_2009.synRate__;
+givenTree.A_New_York_3049_2009_04_27_2009.synRate:=treeScaler*givenTree.A_New_York_3049_2009_04_27_2009.synRate__;
+givenTree.A_New_York_3235_2009_04_28_2009.synRate:=treeScaler*givenTree.A_New_York_3235_2009_04_28_2009.synRate__;
+givenTree.A_Canada_ON_RV1527_2009_04_24_2009.synRate:=treeScaler*givenTree.A_Canada_ON_RV1527_2009_04_24_2009.synRate__;
+givenTree.A_New_York_3176_2009_04_26_2009.synRate:=treeScaler*givenTree.A_New_York_3176_2009_04_26_2009.synRate__;
+givenTree.A_New_York_24_2009_04_24_2009.synRate:=treeScaler*givenTree.A_New_York_24_2009_04_24_2009.synRate__;
+givenTree.A_New_York_21_2009_04_24_2009.synRate:=treeScaler*givenTree.A_New_York_21_2009_04_24_2009.synRate__;
+givenTree.A_New_York_3234_2009_04_28_2009.synRate:=treeScaler*givenTree.A_New_York_3234_2009_04_28_2009.synRate__;
+givenTree.A_New_York_20_2009_04_25_2009.synRate:=treeScaler*givenTree.A_New_York_20_2009_04_25_2009.synRate__;
+givenTree.A_New_York_3365_2009_04_30_2009.synRate:=treeScaler*givenTree.A_New_York_3365_2009_04_30_2009.synRate__;
+givenTree.A_New_York_3185_2009_04_29_2009.synRate:=treeScaler*givenTree.A_New_York_3185_2009_04_29_2009.synRate__;
+givenTree.A_New_York_26_2009_04_24_2009.synRate:=treeScaler*givenTree.A_New_York_26_2009_04_24_2009.synRate__;
+givenTree.A_Nebraska_03_2009_04_27_2009.synRate:=treeScaler*givenTree.A_Nebraska_03_2009_04_27_2009.synRate__;
+givenTree.A_New_York_3186_2009_04_26_2009.synRate:=treeScaler*givenTree.A_New_York_3186_2009_04_26_2009.synRate__;
+givenTree.A_New_York_22_2009_04_24_2009.synRate:=treeScaler*givenTree.A_New_York_22_2009_04_24_2009.synRate__;
+givenTree.A_New_York_3264_2009_04_29_2009.synRate:=treeScaler*givenTree.A_New_York_3264_2009_04_29_2009.synRate__;
+givenTree.A_New_York_3014_2009_04_27_2009.synRate:=treeScaler*givenTree.A_New_York_3014_2009_04_27_2009.synRate__;
+givenTree.A_Virginia_04_2009_04_27_2009.synRate:=treeScaler*givenTree.A_Virginia_04_2009_04_27_2009.synRate__;
+givenTree.A_New_York_3225_2009_04_27_2009.synRate:=treeScaler*givenTree.A_New_York_3225_2009_04_27_2009.synRate__;
+givenTree.A_New_York_3002_2009_04_25_2009.synRate:=treeScaler*givenTree.A_New_York_3002_2009_04_25_2009.synRate__;
+givenTree.A_Massachusetts_06_2009_04_26_2009.synRate:=treeScaler*givenTree.A_Massachusetts_06_2009_04_26_2009.synRate__;
+givenTree.A_Massachusetts_07_2009_04_25_2009.synRate:=treeScaler*givenTree.A_Massachusetts_07_2009_04_25_2009.synRate__;
+givenTree.A_New_York_3230_2009_04_28_2009.synRate:=treeScaler*givenTree.A_New_York_3230_2009_04_28_2009.synRate__;
+givenTree.A_California_14_2009_04_25_2009.synRate:=treeScaler*givenTree.A_California_14_2009_04_25_2009.synRate__;
+givenTree.A_District_of_Columbia_01_2009_04_27_2009.synRate:=treeScaler*givenTree.A_District_of_Columbia_01_2009_04_27_2009.synRate__;
+givenTree.A_New_York_3166_2009_04_26_2009.synRate:=treeScaler*givenTree.A_New_York_3166_2009_04_26_2009.synRate__;
+givenTree.A_New_York_3173_2009_04_28_2009.synRate:=treeScaler*givenTree.A_New_York_3173_2009_04_28_2009.synRate__;
+givenTree.A_New_York_13_2009_04_25_2009.synRate:=treeScaler*givenTree.A_New_York_13_2009_04_25_2009.synRate__;
+givenTree.A_New_York_3191_2009_04_25_2009.synRate:=treeScaler*givenTree.A_New_York_3191_2009_04_25_2009.synRate__;
+givenTree.A_New_York_3167_2009_04_28_2009.synRate:=treeScaler*givenTree.A_New_York_3167_2009_04_28_2009.synRate__;
+givenTree.A_Utah_02_2009_04_28_2009.synRate:=treeScaler*givenTree.A_Utah_02_2009_04_28_2009.synRate__;
+givenTree.A_New_York_3237_2009_04_28_2009.synRate:=treeScaler*givenTree.A_New_York_3237_2009_04_28_2009.synRate__;
+givenTree.A_New_York_3172_2009_04_27_2009.synRate:=treeScaler*givenTree.A_New_York_3172_2009_04_27_2009.synRate__;
+givenTree.A_New_York_3184_2009_04_28_2009.synRate:=treeScaler*givenTree.A_New_York_3184_2009_04_28_2009.synRate__;
+givenTree.A_New_York_3193_2009_04_28_2009.synRate:=treeScaler*givenTree.A_New_York_3193_2009_04_28_2009.synRate__;
+givenTree.A_New_York_3190_2009_04_29_2009.synRate:=treeScaler*givenTree.A_New_York_3190_2009_04_29_2009.synRate__;
+givenTree.A_Nevada_03_2009_04_26_2009.synRate:=treeScaler*givenTree.A_Nevada_03_2009_04_26_2009.synRate__;
+givenTree.A_New_York_3168_2009_04_26_2009.synRate:=treeScaler*givenTree.A_New_York_3168_2009_04_26_2009.synRate__;
+givenTree.A_New_York_3215_2009_04_25_2009.synRate:=treeScaler*givenTree.A_New_York_3215_2009_04_25_2009.synRate__;
+givenTree.A_New_York_11_2009_04_25_2009.synRate:=treeScaler*givenTree.A_New_York_11_2009_04_25_2009.synRate__;
+givenTree.A_New_York_10_2009_04_25_2009.synRate:=treeScaler*givenTree.A_New_York_10_2009_04_25_2009.synRate__;
+givenTree.A_New_York_3194_2009_04_30_2009.synRate:=treeScaler*givenTree.A_New_York_3194_2009_04_30_2009.synRate__;
+givenTree.A_New_York_19_2009_04_25_2009.synRate:=treeScaler*givenTree.A_New_York_19_2009_04_25_2009.synRate__;
+givenTree.A_New_York_3207_2009_04_26_2009.synRate:=treeScaler*givenTree.A_New_York_3207_2009_04_26_2009.synRate__;
+givenTree.A_New_York_3260_2009_04_27_2009.synRate:=treeScaler*givenTree.A_New_York_3260_2009_04_27_2009.synRate__;
+givenTree.A_New_York_3211_2009_04_28_2009.synRate:=treeScaler*givenTree.A_New_York_3211_2009_04_28_2009.synRate__;
+givenTree.A_New_York_35_2009_04_25_2009.synRate:=treeScaler*givenTree.A_New_York_35_2009_04_25_2009.synRate__;
+givenTree.A_New_York_3265_2009_04_29_2009.synRate:=treeScaler*givenTree.A_New_York_3265_2009_04_29_2009.synRate__;
+givenTree.A_New_York_16_2009_04_24_2009.synRate:=treeScaler*givenTree.A_New_York_16_2009_04_24_2009.synRate__;
+givenTree.A_New_York_09_2009_04_25_2009.synRate:=treeScaler*givenTree.A_New_York_09_2009_04_25_2009.synRate__;
+givenTree.Node326.synRate:=treeScaler*givenTree.Node326.synRate__;
+givenTree.Node301.synRate:=treeScaler*givenTree.Node301.synRate__;
+givenTree.Node293.synRate:=treeScaler*givenTree.Node293.synRate__;
+givenTree.Node291.synRate:=treeScaler*givenTree.Node291.synRate__;
+givenTree.A_Wisconsin_629_D01642_2009_04_29_2009.synRate:=treeScaler*givenTree.A_Wisconsin_629_D01642_2009_04_29_2009.synRate__;
+givenTree.Node290.synRate:=treeScaler*givenTree.Node290.synRate__;
+givenTree.Node242.synRate:=treeScaler*givenTree.Node242.synRate__;
+
+The tips of the tree:givenTree were matched with the species names from the data as follows {255,201,154,103,240,133,230,32,68,104,113,117,156,188,227,236,221,119,39,65,46,31,38,19,36,243,249,216,152,242,14,151,76,181,148,185,224,248,135,77,159,149,85,189,11,21,88,93,118,127,165,193,261,53,67,81,94,95,129,177,229,241,86,191,20,115,251,169,5,23,160,51,66,259,41,96,126,142,187,207,217,234,235,246,190,4,22,28,47,48,138,145,163,254,256,275,233,273,106,18,24,25,37,49,58,64,69,82,84,90,92,97,100,107,122,132,162,179,194,197,200,206,210,219,222,245,247,260,265,266,267,42,211,17,80,83,213,232,184,170,199,73,214,43,263,167,101,52,105,150,274,13,258,268,271,34,120,30,89,276,225,196,26,60,139,128,157,124,6,33,45,54,57,72,98,99,108,112,136,137,147,172,178,186,205,218,257,262,0,161,12,250,59,166,35,182,202,1,62,140,239,270,143,61,55,130,2,3,7,8,9,10,15,16,27,29,40,44,50,56,63,70,71,74,75,78,79,87,91,102,109,110,111,114,116,121,123,125,131,134,141,144,146,153,155,158,164,168,171,173,174,175,176,180,183,192,195,198,203,204,208,209,212,215,220,223,226,228,231,237,238,244,253,264,269,272,252}
+
+Pseudo-optimal path's cost 32961 vs 63942 for 1..k=> a 1.93993 x improvement
+Partition  reversible model flag computed as 1
+Variable 'lf' was not initialized prior to being used
+Set GUI update interval to every 1-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+R = 0.5
+alpha = 0.5
+treeScaler = 1
+Optimization finished in 7 loop passes.
+191 likelihood evaluation calls and 280368 matrix exponentiations calls were made
+
+HyPhy killed by signal 2
