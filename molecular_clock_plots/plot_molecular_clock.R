@@ -198,7 +198,7 @@ plot.rh <- function(d, limits, dates.for.plot) {
   p <- ggplot(data=d, aes(x=as.numeric(Date), y=y)) + geom_point() + 
     geom_errorbar(limits, width=10) + 
     xlab("Time") +
-    ylab("Theta") +
+    ylab("Root Height") +
     theme(axis.text.x = element_text(angle = 90, vjust = 0.6)) +
     scale_x_continuous(breaks = as.numeric(as.Date(c('04/01/2009',
                                                      '05/01/2009', 
@@ -252,7 +252,7 @@ plot.rh <- function(d, limits, dates.for.plot) {
                                   '',
                                   '',
                                   '05/2011')) +
-    scale_y_continuous(breaks = seq(0, 10, 2), limits = c(0, 10))
+    scale_y_continuous(breaks = seq(0, 17, 4), limits = c(0, 17))
 }
 
 na.d <- data.frame(Date=ds,
@@ -260,16 +260,16 @@ na.d <- data.frame(Date=ds,
 
 #na.se <- c(7.19E-4, 1.63E-3, 2.03, 2.07E-3, 2.27E-3, 3.30E-3, 2.85E-3, 2.85E-3, 2.36E-3, 2.41E-3, 2.00E-3, 2.08E-3, 1.94E-3)
 
-na.ci <- aes(ymax = na.d$y+1.96*na.se, 
-             ymin = na.d$y-1.96*na.se)
+na.ci <- aes(ymax = c(0.1915, 0.4213, 16.0114, 1.0001, 1.1442, 1.4116, 1.4771, 1.5, 1.5674, 1.6401, 1.949, 2.4099, 2.8367), 
+             ymin = c(0.0945, 0.2282, 0.2672, 0.429, 0.5432, 0.6708, 0.7866, 0.8544, 0.9464, 1.0432, 1.4067, 1.8853, 2.3016))
 
 ha.d <- data.frame(Date=ds,
                    y=c(0.19, 0.36, 5.38, 1.17, 1.28, 1.48, 1.52, 1.58, 1.68, 1.79, 2.05, 2.37, 2.75))
 
 #ha.se <- c(1.53E-3, 2.11E-3, 1.60, 5.07E-3, 4.83E-3, 5.26E-3, 4.28E-3, 4.39E-3, 3.87E-3, 3.84E-3, 3.88E-3, 2.96E-3, 2.85E-3)
 
-ha.ci <- aes(ymax = c(), 
-             ymin = c())
+ha.ci <- aes(ymax = c(0.2687, 0.4667, 3.1948, 1.7673, 1.7935, 2.0969, 2.0007, 2.0948, 2.1568, 2.2949, 2.4713, 2.6819, 3.0639), 
+             ymin = c(0.1208, 0.2571, 0.286, 0.07065, 0.8264, 0.9579, 0.9923, 1.1075, 1.2153, 1.3531, 1.6542, 2.0336, 2.4453))
 
 
 p1 <- plot.rh(ha.d, ha.ci, ds)
