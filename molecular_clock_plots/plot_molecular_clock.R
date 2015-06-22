@@ -66,7 +66,7 @@ plot.mc <- function(d, limits, dates.for.plot) {
                                   '',
                                   '',
                                   '05/2011')) +
-    scale_y_continuous(breaks = seq(0, 0.04, 0.005), limits = c(0, 0.027))
+    scale_y_continuous(breaks = seq(0, 0.04, 0.005), limits = c(0, 0.028))
 }
 
 ds <- as.Date(c('04/30/2009', 
@@ -83,7 +83,7 @@ ds <- as.Date(c('04/30/2009',
                 '11/30/2010',
                 '04/30/2011'), format='%m/%d/%Y')
 
-## Evolutionary rate
+## Molecular clock rate
 na.d <- data.frame(Date=ds,
                    y=c(1.926e-2, 1.133e-2, 4.292e-3, 4.6e-3, 4.386e-3, 4.113e-3, 4.298e-3, 4.611e-3, 4.747e-3, 4.858e-3, 5.065e-3, 4.893e-3, 4.597e-3))
 
@@ -277,3 +277,31 @@ p2 <- plot.rh(na.d, na.ci, ds)
 
 p <- plot_grid(p1, p2, labels = c('A', 'B'))
 ggsave(p, file='rootheight.pdf', height = 6, width = 12, useDingbats = F)
+
+ds <- as.Date(c('04/30/2009', 
+                '08/31/2009',
+                '01/31/2010',
+                '06/30/2010',
+                '11/30/2010',
+                '04/30/2011'), format='%m/%d/%Y')
+
+## Molecular clock rate with gamma heterogeneity
+na.d <- data.frame(Date=ds,
+                   y=c(0.0199, 4.2794E-3, 4.467E-3, 4.9574E-3, 4.896E-3, 4.7142E-3))
+
+na.ci <- aes(ymax = c(0.0276, 6.0283E-3, 5.4329E-3, 5.8473E-3, 5.6759E-3, 5.3799E-3), 
+             ymin = c(0.0125, 2.6091E-3, 3.5418E-3, 4.0597E-3, 4.1925E-3, 4.0861E-3))
+
+p2 <- plot.mc(na.d, na.ci, ds)
+
+ha.d <- data.frame(Date=ds,
+                   y=c(0.0157, 5.7076E-3, 4.6559E-3, 5.0118E-3, 5.4732E-3, 5.3591E-3))
+
+ha.ci <- aes(ymax = c(0.0213, 7.6164E-3, 3.9494E-3, 5.7398E-3, 6.1936E-3, 5.9805E-3), 
+             ymin = c(0.0102, 3.9204E-3, 5.4929E-3, 4.3251E-3, 4.7288E-3, 4.753E-3))
+
+p1 <- plot.mc(ha.d, ha.ci, ds)
+
+p <- plot_grid(p1, p2, labels = c('A', 'B'))
+
+ggsave(p, file='clock_rate_heterogeneous_sites.pdf', height = 6, width = 12)
